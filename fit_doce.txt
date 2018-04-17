@@ -1,345 +1,552 @@
-[{
-
-    "nome": "Cookies de amendoim",
-    "descrição": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
-    "ingredientes": [
+{
+        "sweet fit": [
+    
+    "name": "Cookies de amendoim",
+    "description": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
+    "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg",
+    "ingredients": [
 
         {
-            "unidade": "xícara",
-            "numero": 0.5,
-            "nome": "farinha de amendoim"
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "farinha de amendoim"
         },
 
         {
-            "unidade": "colher de sopa",
-            "numero": 1,
-            "nome": "pasta de amendoim"
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "pasta de amendoim"
         },
 
         {
-            "unidade": "a gosto",
-            "numero": null,
-            "nome": "canela"
+            "unity": "a gosto",
+            "number": null,
+            "name": "canela"
         },
 
         {
-            "unidade": "colheres de sopa",
-            "numero": 2,
-            "nome": "água"
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "água"
         }
     ],
 
-"preparo":[
+"preparation":[
 
     "- Misture todos os ingredientes e molde em círculos.",
     "- Asse durante 25 minutos no forno a 220°."
-],
-
-"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg"
+]
 },
 
     {
-        "nome": "Docinhos de banana",
-        "descrição": "Esses brigadeiros fit são ótima opção de pré-treino ou intra treino, pois são fonte de energia. Substituem muito bem aquelas barrinhas de cereais industrializadas, com a vantagem de serem saudáveis e sem químicos ou aditivos. Rende 12 unidades grandes.",
-        "ingredientes": [
+        "name": "Docinhos de banana",
+        "description": "Esses brigadeiros fit são ótima opção de pré-treino ou intra treino, pois são fonte de energia. Substituem muito bem aquelas barrinhas de cereais industrializadas, com a vantagem de serem saudáveis e sem químicos ou aditivos. Rende 12 unidades grandes.",
+        "image": "http://cozinhafit.com.br/wp-content/uploads/2017/01/docinho-raw-leitora-800x600.jpeg",
+        "ingredients": [
 
             {
-                "unidade": "xícara cheia",
-                "numero": 1,
-                "nome": "amendoim sem casca moído"
+                "unity": "xícara cheia",
+                "number": 1,
+                "name": "amendoim sem casca moído"
             },
 
             {
-                "unidade": "colher de sopa rasa",
-                "numero": 1,
-                "nome": "pasta de amendoim"
+                "unity": "colher de sopa rasa",
+                "number": 1,
+                "name": "pasta de amendoim"
             },
 
             {
-                "unidade": "unidade",
-                "numero": 1,
-                "nome": "banana média madura"
+                "unity": "unidade",
+                "number": 1,
+                "name": "banana média madura"
             },
 
             {
-                "unidade": "pitada",
-                "numero": 1,
-                "nome": "sal e canela"
+                "unity": "pitada",
+                "number": 1,
+                "name": "sal e canela"
             },
 
             {
-                "unidade": "a gosto",
-                "numero": null,
-                "nome": "baunilha e cacau"
+                "unity": "a gosto",
+                "number": null,
+                "name": "baunilha e cacau"
             }
         ],
-    "preparo": [
+    "preparation": [
         "- Amasse a banana com as especiarias escolhidas;",
         "- Acrescente a farinha de amendoim e incorpore-a na banana amassada;",
         "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
         "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
         "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
-    ],
-"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/docinho-raw-leitora-800x600.jpeg"
+    ]
     },
 
     {
-      "nome": "Bolinho de micro",
-      "descrição": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
-      "ingredientes": [
+      "name": "Bolinho de micro",
+      "description": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
+      "name": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg",
+      "ingredients": [
 
           {
-              "unidade": "unidade",
-              "numero": 2,
-              "nome": "ovos"
+              "unity": "unidade",
+              "number": 2,
+              "name": "ovos"
           },
 
           {
-              "unidade": "unidade",
-              "numero": 2,
-              "nome": "bananas médias"
+              "unity": "unidade",
+              "number": 2,
+              "name": "bananas médias"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 0.5,
-              "nome": "farelo de aveia"
+              "unity": "xícara",
+              "number": 0.5,
+              "name": "farelo de aveia"
           },
 
           {
-              "unidade": "unidade",
-              "numero": 3,
-              "nome": "ameixas secas"
+              "unity": "unidade",
+              "number": 3,
+              "name": "ameixas secas"
           },
 
           {
-              "unidade": "colher de café",
-              "numero": 1,
-              "nome": "mel"
+              "unity": "colher de café",
+              "number": 1,
+              "name": "mel"
           },
 
           {
-              "unidade": "colher de café",
-              "numero": 1,
-              "nome": "cacau em pó sem açúcar"
+              "unity": "colher de café",
+              "number": 1,
+              "name": "cacau em pó sem açúcar"
           },
 
           {
-              "unidade": "a gosto",
-              "numero": null,
-              "nome": "canela"
+              "unity": "a gosto",
+              "number": null,
+              "name": "canela"
           }
       ],
 
-    "preparo": [
+    "preparation": [
 
         "- Coloque todos os ingredientes em um recipiente e misture com um mixer, ou bata tudo no liquificador;",
         "- Coloque em forminhas de silicone ou xícara grande de porcelana e leve ao microondas por 2 minutos. Retire da forminha e leve ao micro por mais 15 segundos."
-    ],
-
-"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg"
+    ]
     },
 
   {
-      "nome": "Cookies saudáveis",
-      "descrição": "Essa receita de cookies saudáveis sem glúten e sem leite é simples e fácil de fazer.",
-      "ingredientes": [
+      "name": "Cookies saudáveis",
+      "description": "Essa receita de cookies saudáveis sem glúten e sem leite é simples e fácil de fazer.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/11/cookies-de-castaha.png",
+      "ingredients": [
 
           {
-              "unidade": "xícara",
-              "numero": 1,
-              "nome": "resíduo de leite de castanha de caju (ou castanha batida)"
+              "unity": "xícara",
+              "number": 1,
+              "name": "resíduo de leite de castanha de caju (ou castanha batida)"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 2,
-              "nome": "farinha de arroz"
+              "unity": "xícara",
+              "number": 2,
+              "name": "farinha de arroz"
           },
 
           {
-              "unidade": "colheres",
-              "numero": 2,
-              "nome": "semente de linhaça"
+              "unity": "colheres",
+              "number": 2,
+              "name": "semente de linhaça"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 0.25,
-              "nome": "óleo de coco ou de girassol"
+              "unity": "xícara",
+              "number": 0.25,
+              "name": "óleo de coco ou de girassol"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 0.75,
-              "nome": "açúcar mascavo"
+              "unity": "xícara",
+              "number": 0.75,
+              "name": "açúcar mascavo"
           },
 
           {
-              "unidade": "unidade",
-              "numero": 2,
-              "nome": "ovos"
+              "unity": "unidade",
+              "number": 2,
+              "name": "ovos"
           }
       ],
 
-      "preparo": [
+      "preparation": [
           "- Misture bem todos os ingredientes. Faça bolinhas e achate levemente para que fiquem no formato de cookies.",
           "- Leve para assar em forno pré aquecido a 200 graus até que os cookies fiquem corados.",
-      ],
-
-    "imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/11/cookies-de-castaha.png"
+      ]
   },
 
   {
-      "nome": "Muffin sem farinha",
-      "descrição": "Esse muffin sem farinha é super ótimo, pois permite várias substituições! A receita abaixo é com pasta de amendoim e blueberries, mas vocês pode usar pasta/manteiga de qualquer oleaginosa e outra fruta que goste, como morangos por exemplo.",
-      "ingredientes": [
+      "name": "Muffin sem farinha",
+      "description": "Esse muffin sem farinha é super ótimo, pois permite várias substituições! A receita abaixo é com pasta de amendoim e blueberries, mas vocês pode usar pasta/manteiga de qualquer oleaginosa e outra fruta que goste, como morangos por exemplo.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/05/muffin-sem-farinha-03.jpg",
+      "ingredients": [
 
           {
-              "unidade": "xícaras",
-              "numero": 2,
-              "nome": "farelo de aveia (ou aveia em flocos batida)",
+              "unity": "xícaras",
+              "number": 2,
+              "name": "farelo de aveia (ou aveia em flocos batida)"
           },
 
           {
-              "unidade": "colher de chá",
-              "numero": 1,
-              "nome": "fermento químico"
+              "unity": "colher de chá",
+              "number": 1,
+              "name": "fermento químico"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 1,
-              "nome": "leite de sua preferência"
+              "unity": "xícara",
+              "number": 1,
+              "name": "leite de sua preferência"
           },
 
           {
-              "unidade": "pitada",
-              "numero": 1,
+              "unity": "pitada",
+              "number": 1,
               "nome": "sal"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 0.25,
-              "nome": "açúcar cristal orgânico (ou outro de sua preferência)"
+              "unity": "xícara",
+              "number": 0.25,
+              "name": "açúcar cristal orgânico (ou outro de sua preferência)"
           },
 
           {
-              "unidade": "unidade",
-              "numero": 1,
-              "nome": "ovo"
+              "unity": "unidade",
+              "number": 1,
+              "name": "ovo"
           },
 
           {
-              "unidade": "colher de chá",
-              "numero": 1,
-              "nome": "essência de baunilha"
+              "unity": "colher de chá",
+              "number": 1,
+              "name": "essência de baunilha"
           },
 
           {
-              "unidade": "colheres de sopa",
-              "numero": 6,
-              "nome": "pasta de amendoim, ou outra de sua preferência"
+              "unity": "colheres de sopa",
+              "number": 6,
+              "name": "pasta de amendoim, ou outra de sua preferência"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 1,
-              "nome": "blueberries ou outra fruta"
+              "unity": "xícara",
+              "number": 1,
+              "name": "blueberries ou outra fruta"
           }
       ],
 
-    "preparo": [
+    "preparation": [
         "- Pré-aqueça o forno a 180 graus;",
         "- Em uma vasilha misture todos os ingredientes secos e reserve;",
         "- Misture em outra vasilha todos os úmidos;",
         "- Adicione os secos nos úmidos e misture bem;",
         "- Adicione a fruta e misture;",
         "- Coloque em forminhas de cupcake de silicone e leve ao forno por mais ou menos 30 minutos."
-    ],
-
-"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/05/muffin-sem-farinha-03.jpg"
+    ] 
   },
   
   {
-      "nome": "Cookie de banana com iogurte",
-      "descrição": "Essa receita de cookies leva gotinhas de chocolate, se preferir pode usar chocolate meio amargo ou uva passa.",
-      "categoria": "fit doce",
-      "ingredientes": [
+      "name": "Cookie de banana com iogurte",
+      "description": "Essa receita de cookies leva gotinhas de chocolate, se preferir pode usar chocolate meio amargo ou uva passa.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/05/CookiesGotinhas05-1024x682.jpg",
+      "ingredients": [
 
           {
-              "unidade": "xícaras",
-              "numero": 2,
-              "nome": "aveia em flocos grandes"
+              "unity": "xícaras",
+              "number": 2,
+              "name": "aveia em flocos grandes"
           },
 
           {
-              "unidade": "colher de sopa",
-              "numero": 1,
-              "nome": "chia"
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "chia"
           },
 
           {
-              "unidade": "xícara",
-              "numero": 0.25,
-              "nome": "iogurte caseiro"
+              "unity": "xícara",
+              "number": 0.25,
+              "name": "iogurte caseiro"
           },
 
           {
-              "unidade": "colher de sopa",
-              "numero": 1,
-              "nome": "pasta de amendoim"
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "pasta de amendoim"
           },
 
           {
-              "unidade": "unidade",
-              "numero": 2,
-              "nome": "bananas amassadas"
+              "unity": "unidade",
+              "number": 2,
+              "name": "bananas amassadas"
           },
 
           {
-              "unidade": "pitada",
-              "numero": 1,
-              "nome": "sal"
+              "unity": "pitada",
+              "number": 1,
+              "name": "sal"
           },
 
           {
-                "unidade": "a gosto",
-                "numero": null,
-                "nome": "canela"
+                "unity": "a gosto",
+                "number": null,
+                "name": "canela"
           },
 
           {
-              "unidade": "colher de sopa",
-              "numero": 1,
-              "nome": "açúcar cristal orgânico (pode usar demerara ou mascavo, conforme preferir)"
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "açúcar cristal orgânico (pode usar demerara ou mascavo, conforme preferir)"
           },
 
           {
-              "unidade": "colher de sopa",
-              "numero": 1,
-              "nome": "melado de cana"
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "melado de cana"
           },
 
           {
-              "unidade": "a gosto",
-              "numero": null,
-              "nome": "gotinhas de chocolate"
+              "unity": "a gosto",
+              "number": null,
+              "name": "gotinhas de chocolate"
           }
       ],
 
-    "preparo": [
+    "preparation": [
         "- Pré-aqueça o forno a 180 graus;",
         "- Em uma tijela grande coloque todos os ingredientes secos: aveia, chia, açúcar, canela, sal e reserve;",
         "- Em outra tijela amasse as bananas e adicione os ingredientes úmidos: iogurte, pasta de amendoim, melado e misture;",
         "- Coloque a mistura úmida na seca e misture;",
-        "- Adicione as gotinhas de chocolate.";
+        "- Adicione as gotinhas de chocolate;",
         "- Cubra uma forma grande com papel manteiga, molde os biscoitos no formato desejado;",
         "- Leve ao forno por mais ou menos 20 minutos.",
         "ao retirar do forno, transfira os biscoitos sobre o papel manteiga para uma outra superfície e deixe esfriar antes de retirar do papel manteiga. Se não deixar esfriar eles quebram."
+    ]
+  },
+
+  {
+      "name": "Bolo de Churros (sem glúten)",
+      "description": "Essa receita fica pronta em menos de 45 minutos, é simples, fácil e muito prática.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/04/bolo-churros04-1024x682.jpg",
+      "ingrediente" [
+
+          {
+              "unity": "unidade",
+              "number": 6,
+              "name": "ovos (claras e gemas separadas)"
+          },
+
+          {
+              "unity": "colheres de sopa",
+              "number": 6,
+              "name": "farinha sem glúten"
+          },
+
+          {
+              "unity": "colher de chá",
+              "number": 1,
+              "name": "fermento químico"
+          },
+
+          {
+              "unity": "colheres de sopa",
+              "number": 6,
+              "name": "açúcar cristal orgânico ou demerara"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "canela"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "açúcar para polvilhar"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "doce de leite de sua preferência"
+          }
+      ],
+
+    "preparation": [
+        "- Bater o açúcar e as gemas até que fique amarelo claro e reserve;",
+        "- Bata as claras em neve;",
+        "- Adicione à mistura de gemas e açúcar o fermento e a farinha sem glúten e misture;",
+        "- Lentamente adicione as claras em neve à massa até obter uma massa fofa e homogênea;",
+        "- Coloque em uma fôrma untada e enfarinhada;",
+        "-  Asse em forno pré-aquecido a 180 graus por mais ou menos 25 minutos ou até dourar;"
+        "- Espere esfriar para desenformar e montar. Ideal deixar um pouco na geladeira."
+    ]
+  },
+
+  {
+      "name": "Panqueca Integral de Banana",
+      "description": "Essa panquequinha integral de banana é ideal para o lanche ou café da manhã. Rende 4 unidades pequenas ou duas médias, depende do tamanho da sua frigideira.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/01/PANQUECA-INTEGRAL.jpg",
+      "ingredients": [
+
+          {
+
+          }
+      ]
+  },
+
+  {
+
+    "nome": "Cookies de amendoim",
+    "description": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
+    "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg",
+    "ingredients": [
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "farinha de amendoim"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "pasta de amendoim"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "canela"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "água"
+        }
     ],
 
-"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/05/CookiesGotinhas05-1024x682.jpg"
-  },
+"preparation":[
+
+    "- Misture todos os ingredientes e molde em círculos.",
+    "- Asse durante 25 minutos no forno a 220°."
+]
+},
+
+    {
+        "name": "Docinhos de banana",
+        "description": "Esses brigadeiros fit são ótima opção de pré-treino ou intra treino, pois são fonte de energia. Substituem muito bem aquelas barrinhas de cereais industrializadas, com a vantagem de serem saudáveis e sem químicos ou aditivos. Rende 12 unidades grandes.",
+        "image": "http://cozinhafit.com.br/wp-content/uploads/2017/01/docinho-raw-leitora-800x600.jpeg",
+        "ingredients": [
+
+            {
+                "unity": "xícara cheia",
+                "number": 1,
+                "name": "amendoim sem casca moído"
+            },
+
+            {
+                "unity": "colher de sopa rasa",
+                "number": 1,
+                "name": "pasta de amendoim"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "banana média madura"
+            },
+
+            {
+                "unity": "pitada",
+                "number": 1,
+                "name": "sal e canela"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "baunilha e cacau"
+            }
+        ],
+    "preparation": [
+        "- Amasse a banana com as especiarias escolhidas;",
+        "- Acrescente a farinha de amendoim e incorpore-a na banana amassada;",
+        "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
+        "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
+        "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
+    ]
+    },
+
+    {
+      "nome": "Bolinho de micro",
+      "description": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg",
+      "ingredients": [
+
+          {
+              "unity": "unidade",
+              "number": 2,
+              "name": "ovos"
+          },
+
+          {
+              "unity": "unidade",
+              "number": 2,
+              "name": "bananas médias"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 0.5,
+              "name": "farelo de aveia"
+          },
+
+          {
+              "unity": "unidade",
+              "number": 3,
+              "name": "ameixas secas"
+          },
+
+          {
+              "unity": "colher de café",
+              "number": 1,
+              "name": "mel"
+          },
+
+          {
+              "unity": "colher de café",
+              "number": 1,
+              "name": "cacau em pó sem açúcar"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "canela"
+          }
+      ],
+
+    "preparation": [
+
+        "- Coloque todos os ingredientes em um recipiente e misture com um mixer, ou bata tudo no liquificador;",
+        "- Coloque em forminhas de silicone ou xícara grande de porcelana e leve ao microondas por 2 minutos. Retire da forminha e leve ao micro por mais 15 segundos."
+    ]
+    },
 ]

@@ -783,61 +783,61 @@
 		"ingredients": [
 
 			{
-				"unidade": "unidade",
-				"numero": 4,
-				"nome": "coxas de frango"
+				"unity": "unidade",
+				"number": 4,
+				"name": "coxas de frango"
 			},
 
 			{
-				"unidade": "unidade",
-				"numero": 2,
-				"nome": "dentes de alho"
+				"unity": "unidade",
+				"number": 2,
+				"name": "dentes de alho"
 			},
 
 			{
-				"unidade": "unidade",
-				"numero": 1,
-				"nome": "limão"
+				"unity": "unidade",
+				"number": 1,
+				"name": "limão"
 			},
 
 			{
-				"unidade": "a gosto",
-				"numero": null,
-				"nome": "sal e pimenta"
+				"unity": "a gosto",
+				"number": null,
+				"name": "sal e pimenta"
 			},
 
 			{
-				"unidade": null,
-				"numero": null,
-				"nome": "alecrim fresco picado"
+				"unity": null,
+				"number": null,
+				"name": "alecrim fresco picado"
 			},
 
 			{
-				"unidade": "colher de sopa",
-				"numero": 1,
-				"nome": "azeite"
+				"unity": "colher de sopa",
+				"number": 1,
+				"name": "azeite"
 			},
 
 			{
-				"unidade": null,
-				"numero": null,
-				"nome": "mostarda dijon com sementes (ou outra de sua preferência)"
+				"unity": null,
+				"number": null,
+				"name": "mostarda dijon com sementes (ou outra de sua preferência)"
 			},
 
 			{
-				"unidade": null,
-				"numero": null,
-				"nome": "mostarda em pó"
+				"unity": null,
+				"number": null,
+				"name": "mostarda em pó"
 			},
 
 			{
-				"unidade": "unidade",
-				"numero": 1,
-				"nome": "cebola"
+				"unity": "unidade",
+				"number": 1,
+				"name": "cebola"
 			}
 		],
 
-	"preparo": [
+	"preparation": [
 		"- Em uma tigela, coloque as coxas de frango, esprema dois dentes de alho, adicione sal, limão espremido e pimenta a gosto;",
 		"- Em seguida, adicione alecrim fresco picado, mostarda em pó a gosto, 1 colher de sopa de azeite e 1 colher de mostarda dijon com sementes (pode ser outra mostarda de sua preferência);",
 		"- Tampe com plástico filme e deixe descansar por 15 minutos (ou uma noite se puder e tiver tempo);",
