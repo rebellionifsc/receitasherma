@@ -1,0 +1,345 @@
+[{
+
+    "nome": "Cookies de amendoim",
+    "descrição": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
+    "ingredientes": [
+
+        {
+            "unidade": "xícara",
+            "numero": 0.5,
+            "nome": "farinha de amendoim"
+        },
+
+        {
+            "unidade": "colher de sopa",
+            "numero": 1,
+            "nome": "pasta de amendoim"
+        },
+
+        {
+            "unidade": "a gosto",
+            "numero": null,
+            "nome": "canela"
+        },
+
+        {
+            "unidade": "colheres de sopa",
+            "numero": 2,
+            "nome": "água"
+        }
+    ],
+
+"preparo":[
+
+    "- Misture todos os ingredientes e molde em círculos.",
+    "- Asse durante 25 minutos no forno a 220°."
+],
+
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg"
+},
+
+    {
+        "nome": "Docinhos de banana",
+        "descrição": "Esses brigadeiros fit são ótima opção de pré-treino ou intra treino, pois são fonte de energia. Substituem muito bem aquelas barrinhas de cereais industrializadas, com a vantagem de serem saudáveis e sem químicos ou aditivos. Rende 12 unidades grandes.",
+        "ingredientes": [
+
+            {
+                "unidade": "xícara cheia",
+                "numero": 1,
+                "nome": "amendoim sem casca moído"
+            },
+
+            {
+                "unidade": "colher de sopa rasa",
+                "numero": 1,
+                "nome": "pasta de amendoim"
+            },
+
+            {
+                "unidade": "unidade",
+                "numero": 1,
+                "nome": "banana média madura"
+            },
+
+            {
+                "unidade": "pitada",
+                "numero": 1,
+                "nome": "sal e canela"
+            },
+
+            {
+                "unidade": "a gosto",
+                "numero": null,
+                "nome": "baunilha e cacau"
+            }
+        ],
+    "preparo": [
+        "- Amasse a banana com as especiarias escolhidas;",
+        "- Acrescente a farinha de amendoim e incorpore-a na banana amassada;",
+        "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
+        "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
+        "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
+    ],
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2017/01/docinho-raw-leitora-800x600.jpeg"
+    },
+
+    {
+      "nome": "Bolinho de micro",
+      "descrição": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
+      "ingredientes": [
+
+          {
+              "unidade": "unidade",
+              "numero": 2,
+              "nome": "ovos"
+          },
+
+          {
+              "unidade": "unidade",
+              "numero": 2,
+              "nome": "bananas médias"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 0.5,
+              "nome": "farelo de aveia"
+          },
+
+          {
+              "unidade": "unidade",
+              "numero": 3,
+              "nome": "ameixas secas"
+          },
+
+          {
+              "unidade": "colher de café",
+              "numero": 1,
+              "nome": "mel"
+          },
+
+          {
+              "unidade": "colher de café",
+              "numero": 1,
+              "nome": "cacau em pó sem açúcar"
+          },
+
+          {
+              "unidade": "a gosto",
+              "numero": null,
+              "nome": "canela"
+          }
+      ],
+
+    "preparo": [
+
+        "- Coloque todos os ingredientes em um recipiente e misture com um mixer, ou bata tudo no liquificador;",
+        "- Coloque em forminhas de silicone ou xícara grande de porcelana e leve ao microondas por 2 minutos. Retire da forminha e leve ao micro por mais 15 segundos."
+    ],
+
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg"
+    },
+
+  {
+      "nome": "Cookies saudáveis",
+      "descrição": "Essa receita de cookies saudáveis sem glúten e sem leite é simples e fácil de fazer.",
+      "ingredientes": [
+
+          {
+              "unidade": "xícara",
+              "numero": 1,
+              "nome": "resíduo de leite de castanha de caju (ou castanha batida)"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 2,
+              "nome": "farinha de arroz"
+          },
+
+          {
+              "unidade": "colheres",
+              "numero": 2,
+              "nome": "semente de linhaça"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 0.25,
+              "nome": "óleo de coco ou de girassol"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 0.75,
+              "nome": "açúcar mascavo"
+          },
+
+          {
+              "unidade": "unidade",
+              "numero": 2,
+              "nome": "ovos"
+          }
+      ],
+
+      "preparo": [
+          "- Misture bem todos os ingredientes. Faça bolinhas e achate levemente para que fiquem no formato de cookies.",
+          "- Leve para assar em forno pré aquecido a 200 graus até que os cookies fiquem corados.",
+      ],
+
+    "imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/11/cookies-de-castaha.png"
+  },
+
+  {
+      "nome": "Muffin sem farinha",
+      "descrição": "Esse muffin sem farinha é super ótimo, pois permite várias substituições! A receita abaixo é com pasta de amendoim e blueberries, mas vocês pode usar pasta/manteiga de qualquer oleaginosa e outra fruta que goste, como morangos por exemplo.",
+      "ingredientes": [
+
+          {
+              "unidade": "xícaras",
+              "numero": 2,
+              "nome": "farelo de aveia (ou aveia em flocos batida)",
+          },
+
+          {
+              "unidade": "colher de chá",
+              "numero": 1,
+              "nome": "fermento químico"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 1,
+              "nome": "leite de sua preferência"
+          },
+
+          {
+              "unidade": "pitada",
+              "numero": 1,
+              "nome": "sal"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 0.25,
+              "nome": "açúcar cristal orgânico (ou outro de sua preferência)"
+          },
+
+          {
+              "unidade": "unidade",
+              "numero": 1,
+              "nome": "ovo"
+          },
+
+          {
+              "unidade": "colher de chá",
+              "numero": 1,
+              "nome": "essência de baunilha"
+          },
+
+          {
+              "unidade": "colheres de sopa",
+              "numero": 6,
+              "nome": "pasta de amendoim, ou outra de sua preferência"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 1,
+              "nome": "blueberries ou outra fruta"
+          }
+      ],
+
+    "preparo": [
+        "- Pré-aqueça o forno a 180 graus;",
+        "- Em uma vasilha misture todos os ingredientes secos e reserve;",
+        "- Misture em outra vasilha todos os úmidos;",
+        "- Adicione os secos nos úmidos e misture bem;",
+        "- Adicione a fruta e misture;",
+        "- Coloque em forminhas de cupcake de silicone e leve ao forno por mais ou menos 30 minutos."
+    ],
+
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/05/muffin-sem-farinha-03.jpg"
+  },
+  
+  {
+      "nome": "Cookie de banana com iogurte",
+      "descrição": "Essa receita de cookies leva gotinhas de chocolate, se preferir pode usar chocolate meio amargo ou uva passa.",
+      "categoria": "fit doce",
+      "ingredientes": [
+
+          {
+              "unidade": "xícaras",
+              "numero": 2,
+              "nome": "aveia em flocos grandes"
+          },
+
+          {
+              "unidade": "colher de sopa",
+              "numero": 1,
+              "nome": "chia"
+          },
+
+          {
+              "unidade": "xícara",
+              "numero": 0.25,
+              "nome": "iogurte caseiro"
+          },
+
+          {
+              "unidade": "colher de sopa",
+              "numero": 1,
+              "nome": "pasta de amendoim"
+          },
+
+          {
+              "unidade": "unidade",
+              "numero": 2,
+              "nome": "bananas amassadas"
+          },
+
+          {
+              "unidade": "pitada",
+              "numero": 1,
+              "nome": "sal"
+          },
+
+          {
+                "unidade": "a gosto",
+                "numero": null,
+                "nome": "canela"
+          },
+
+          {
+              "unidade": "colher de sopa",
+              "numero": 1,
+              "nome": "açúcar cristal orgânico (pode usar demerara ou mascavo, conforme preferir)"
+          },
+
+          {
+              "unidade": "colher de sopa",
+              "numero": 1,
+              "nome": "melado de cana"
+          },
+
+          {
+              "unidade": "a gosto",
+              "numero": null,
+              "nome": "gotinhas de chocolate"
+          }
+      ],
+
+    "preparo": [
+        "- Pré-aqueça o forno a 180 graus;",
+        "- Em uma tijela grande coloque todos os ingredientes secos: aveia, chia, açúcar, canela, sal e reserve;",
+        "- Em outra tijela amasse as bananas e adicione os ingredientes úmidos: iogurte, pasta de amendoim, melado e misture;",
+        "- Coloque a mistura úmida na seca e misture;",
+        "- Adicione as gotinhas de chocolate.";
+        "- Cubra uma forma grande com papel manteiga, molde os biscoitos no formato desejado;",
+        "- Leve ao forno por mais ou menos 20 minutos.",
+        "ao retirar do forno, transfira os biscoitos sobre o papel manteiga para uma outra superfície e deixe esfriar antes de retirar do papel manteiga. Se não deixar esfriar eles quebram."
+    ],
+
+"imageURL": "http://cozinhafit.com.br/wp-content/uploads/2016/05/CookiesGotinhas05-1024x682.jpg"
+  },
+]
