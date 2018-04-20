@@ -405,9 +405,42 @@
       "ingredients": [
 
           {
+                "unity": "xícara cheia",
+                "number": 1,
+                "name": "amendoim sem casca moído"
+            },
 
-          }
-      ]
+            {
+                "unity": "colher de sopa rasa",
+                "number": 1,
+                "name": "pasta de amendoim"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "banana média madura"
+            },
+
+            {
+                "unity": "pitada",
+                "number": 1,
+                "name": "sal e canela"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "baunilha e cacau"
+            }
+        ],
+    "preparation": [
+        "- Amasse a banana com as especiarias escolhidas;",
+        "- Acrescente a farinha de amendoim e incorpore-a na banana amassada;",
+        "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
+        "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
+        "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
+    ]
   },
 
   {
@@ -549,4 +582,52 @@
         "- Coloque em forminhas de silicone ou xícara grande de porcelana e leve ao microondas por 2 minutos. Retire da forminha e leve ao micro por mais 15 segundos."
     ]
     },
-]
+
+    {
+        "name": "Sorvete de Manga Light",
+        "description": "Essa receita de sorvete de manga light pode ser dada às crianças e caso ache necessário pode adoçar com mel.",
+        "image": "http://cozinhafit.com.br/wp-content/uploads/2015/12/sorvete-de-manga-post2.jpg",
+        "ingredients": [
+
+            {
+                "unity": "unidade",
+                "number": 0.5,
+                "name": "manga sem casca cortada"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 0.5,
+                "name": "inhame pequeno cozido"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 3,
+                "name": "morangos"
+            },
+
+            {
+                "unity": "g",
+                "number": 30,
+                "name": "whey de baunilha"
+            },
+
+            {
+                "unity": "colher de sobremesa",
+                "number": 1,
+                "name": "óleo de coco"
+            }
+        ],
+
+    "preparation": [
+        "- Bater todos os ingredientes, colocar em um potinho e refrigerar até firmar."
+    ]
+    },
+
+    {
+        "name": ""
+    }
+
+        ]
+    }

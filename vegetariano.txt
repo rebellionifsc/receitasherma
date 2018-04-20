@@ -1,0 +1,124 @@
+{
+    "vegetarian": [
+
+        {
+            "name": "Hambúrger Vegetariano de Cogumelo",
+            "description": "Esse hambúrguer vegetariano de cogumelo tem uma mistura espetacular de sabores e ingredientes!",
+            "image": "https://truffle-assets.imgix.net/4246c61c-hamburguer-vegetariano-de-cogumelo_l_thumb.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "g",
+                    "number": 450,
+                    "name": "tofu extra firme, prensado"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 2,
+                    "name": "beterrabas pequenas, cozidas no vapor"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "molho de soja"
+                },
+
+                {
+                    "unity": "g",
+                    "number": 450,
+                    "name": "cogumelos champignon, picados"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "cebola vermelha picada"
+                },
+
+                {
+                    "unity": "colheres de chá",
+                    "number": 2,
+                    "name": "páprica defumada"
+                },
+
+                {
+                    "unity": "colher de chá",
+                    "number": 1.5,
+                    "name": "sal"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "flocos de aveia"
+                },
+
+                {
+                    "unity": "lata",
+                    "number": 1,
+                    "name": "feijão preto, escoado"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "tomate"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 2,
+                    "name": "dentes de alho ralados"
+                },
+
+                {
+                    "unity": "colheres de chá",
+                    "number": 2,
+                    "name": "mostarda Dijon"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "alecrim fresco picado"
+                },
+
+                {
+                    "unity": "colher de chá",
+                    "number": 1,
+                    "name": "pimenta do reino moída"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 2,
+                    "name": "ovos grandes"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "óleo de coco gelado"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.25,
+                    "name": "mostarda amarela, para fritar"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "óleo vegetal, para fritar"
+                }
+            ],
+
+        "preparo": [
+            "- Pré-aquecer o forno a 220 graus celsius e preparar 2 assadeiras com papel manteiga."
+        ]
+        }
+    ]
+}
