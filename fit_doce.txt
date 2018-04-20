@@ -621,13 +621,103 @@
         ],
 
     "preparation": [
-        "- Bater todos os ingredientes, colocar em um potinho e refrigerar até firmar."
+        "- Bater todos os ingredientes, colocar em um potinho e refrigerar até firmar.",
+        "- Em um processador de alimentos equipado com a lâmina fixada, pulsar o tofu, beterraba e molho de soja 5 vezes para combinar; transferir para uma tigela grande.",
+        "- Adicionar cogumelos picados, cebola vermelha, páprica defumada e 1 colher de chá de sal na tigela e balançar para combinar.",
+        "- Espalhar a mistura uniformemente nas assadeiras preparadas e assar mexendo na metade do tempo, por 20 minutos ou até ficar crocante. Retirar e deixar esfriar.",
+        "- Na tigela limpa do processador de alimentos, pulsar a aveia até ficar com uma consistência parecida com farinha;",
+        "- Adicionar os feijões e pulsar 10 a 15 vezes para formar uma pasta grossa;",
+        "- Transferir para uma tigela grande com a pasta de tomate, alho, mostarda, alecrim, 1/2 colher de chá de sal, pimenta e ovos e misturar;",
+        "- Enrolar na mistura de cogumelos torrados e tofu. Cobrir e refrigerar por 10 minutos.",
+        "- Remover a mistura da geladeira e enrolar no óleo de coco ralado;",
+        "- Formar as porções de meia xícara da massa em empanadas e espalhar em cada cerca de uma colher de chá de mostarda amarela.",
+        "- Aquecer uma frigideira de ferro fundido em fogo médio-alto e adicionar o óleo vegetal à panela;",
+        "- Fritar cada empanada por cerca de 5 minutos em cada lado. Servir imediatamente."
     ]
-    },
 
     {
-        "name": ""
-    }
+        "name": "Âlmondega de Berinjela",
+        "description": "Além de saborosa e prática, essa receita de almôndega de berinjela é uma ótima opção vegetariana para você incluir no seu cotidiano. Rende 4 porções.",
+        "image": "https://truffle-assets.imgix.net/02f17d9b-almondega-de-berinjela-l-thumbjpg",
+        "ingredients" [
+
+            {
+                "unity": null,
+                "number": null,
+                "name": "azeite de oliva para refogar"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 2,
+                "name": "dentes de alho picados"
+            },
+
+            {
+                "unity": "g",
+                "number": 680,
+                "name": "berinjela picada"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "pimenta do reino"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 0.5,
+                "name": "maço de manjericão"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "farinha de rosca"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "ovo"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.5,
+                "name": "parmesão ralado"
+            },
+
+            {
+                "unity": "xícaras",
+                "number": 2,
+                "name": "molho de tomate"
+            }
+        ],
+
+    "preparo": [
+        "- Em uma frigideira quente, dispor o azeite de oliva e refogar o alho.",
+        "- Juntar as berinjelas e temperar com sal e pimenta do reino a gosto;",
+        "- Deixar cozinhar até que evapore toda a água. Reservar para esfriar.",
+        "- No processador, triturar a berinjela sem chegar a ponto de pasta.",
+        "- Dispor em uma tigela e juntar o manjericão, a farinha de rosca, o ovo e o queijo parmesão.",
+        "- Formatar almôndegas e dispor em uma forma untada e levar ao forno 180 graus por 25 minutos ou até que dourem.",
+        "- Aquecer o molho de tomates em uma frigideira e dispor as almôndegas, deixar cozinhar por 5 minutos e servir com espaguete."
+    ]
+    },
+        
+            {
+                "name": ""
+            }
+
+    
 
         ]
     }
