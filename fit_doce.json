@@ -1,0 +1,625 @@
+{
+        "sweet fit": [
+
+
+    { "name": "Cookies de amendoim",
+    "description": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
+    "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg",
+    "ingredients": [
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "farinha de amendoim"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "pasta de amendoim"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "canela"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "água"
+        }
+    ],
+
+"preparation":[
+
+    "- Misture todos os ingredientes e molde em círculos.",
+    "- Asse durante 25 minutos no forno a 220°."
+]
+},
+
+    {
+        "name": "Docinhos de banana",
+        "description": "Esses brigadeiros fit são ótima opção de pré-treino ou intra treino, pois são fonte de energia. Substituem muito bem aquelas barrinhas de cereais industrializadas, com a vantagem de serem saudáveis e sem químicos ou aditivos. Rende 12 unidades grandes.",
+        "image": "http://cozinhafit.com.br/wp-content/uploads/2017/01/docinho-raw-leitora-800x600.jpeg",
+        "ingredients": [
+
+            {
+                "unity": "xícara cheia",
+                "number": 1,
+                "name": "amendoim sem casca moído"
+            },
+
+            {
+                "unity": "colher de sopa rasa",
+                "number": 1,
+                "name": "pasta de amendoim"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "banana média madura"
+            },
+
+            {
+                "unity": "pitada",
+                "number": 1,
+                "name": "sal e canela"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "baunilha e cacau"
+            }
+        ],
+    "preparation": [
+        "- Amasse a banana com as especiarias escolhidas;",
+        "- Acrescente a farinha de amendoim e incorpore-a na banana amassada;",
+        "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
+        "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
+        "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
+    ]
+    },
+
+    {
+      "name": "Bolinho de micro",
+      "description": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg",
+      "ingredients": [
+
+          {
+              "unity": "unidade",
+              "number": 2,
+              "name": "ovos"
+          },
+
+          {
+              "unity": "unidade",
+              "number": 2,
+              "name": "bananas médias"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 0.5,
+              "name": "farelo de aveia"
+          },
+
+          {
+              "unity": "unidade",
+              "number": 3,
+              "name": "ameixas secas"
+          },
+
+          {
+              "unity": "colher de café",
+              "number": 1,
+              "name": "mel"
+          },
+
+          {
+              "unity": "colher de café",
+              "number": 1,
+              "name": "cacau em pó sem açúcar"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "canela"
+          }
+      ],
+
+    "preparation": [
+
+        "- Coloque todos os ingredientes em um recipiente e misture com um mixer, ou bata tudo no liquificador;",
+        "- Coloque em forminhas de silicone ou xícara grande de porcelana e leve ao microondas por 2 minutos. Retire da forminha e leve ao micro por mais 15 segundos."
+    ]
+    },
+
+  {
+      "name": "Cookies saudáveis",
+      "description": "Essa receita de cookies saudáveis sem glúten e sem leite é simples e fácil de fazer.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/11/cookies-de-castaha.png",
+      "ingredients": [
+
+          {
+              "unity": "xícara",
+              "number": 1,
+              "name": "resíduo de leite de castanha de caju (ou castanha batida)"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 2,
+              "name": "farinha de arroz"
+          },
+
+          {
+              "unity": "colheres",
+              "number": 2,
+              "name": "semente de linhaça"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 0.25,
+              "name": "óleo de coco ou de girassol"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 0.75,
+              "name": "açúcar mascavo"
+          },
+
+          {
+              "unity": "unidade",
+              "number": 2,
+              "name": "ovos"
+          }
+      ],
+
+      "preparation": [
+          "- Misture bem todos os ingredientes. Faça bolinhas e achate levemente para que fiquem no formato de cookies.",
+          "- Leve para assar em forno pré aquecido a 200 graus até que os cookies fiquem corados."
+      ]
+  },
+
+  {
+      "name": "Muffin sem farinha",
+      "description": "Esse muffin sem farinha é super ótimo, pois permite várias substituições! A receita abaixo é com pasta de amendoim e blueberries, mas vocês pode usar pasta/manteiga de qualquer oleaginosa e outra fruta que goste, como morangos por exemplo.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/05/muffin-sem-farinha-03.jpg",
+      "ingredients": [
+
+          {
+              "unity": "xícaras",
+              "number": 2,
+              "name": "farelo de aveia (ou aveia em flocos batida)"
+          },
+
+          {
+              "unity": "colher de chá",
+              "number": 1,
+              "name": "fermento químico"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 1,
+              "name": "leite de sua preferência"
+          },
+
+          {
+              "unity": "pitada",
+              "number": 1,
+              "nome": "sal"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 0.25,
+              "name": "açúcar cristal orgânico (ou outro de sua preferência)"
+          },
+
+          {
+              "unity": "unidade",
+              "number": 1,
+              "name": "ovo"
+          },
+
+          {
+              "unity": "colher de chá",
+              "number": 1,
+              "name": "essência de baunilha"
+          },
+
+          {
+              "unity": "colheres de sopa",
+              "number": 6,
+              "name": "pasta de amendoim, ou outra de sua preferência"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 1,
+              "name": "blueberries ou outra fruta"
+          }
+      ],
+
+    "preparation": [
+        "- Pré-aqueça o forno a 180 graus;",
+        "- Em uma vasilha misture todos os ingredientes secos e reserve;",
+        "- Misture em outra vasilha todos os úmidos;",
+        "- Adicione os secos nos úmidos e misture bem;",
+        "- Adicione a fruta e misture;",
+        "- Coloque em forminhas de cupcake de silicone e leve ao forno por mais ou menos 30 minutos."
+    ]
+  },
+
+  {
+      "name": "Cookie de banana com iogurte",
+      "description": "Essa receita de cookies leva gotinhas de chocolate, se preferir pode usar chocolate meio amargo ou uva passa.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/05/CookiesGotinhas05-1024x682.jpg",
+      "ingredients": [
+
+          {
+              "unity": "xícaras",
+              "number": 2,
+              "name": "aveia em flocos grandes"
+          },
+
+          {
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "chia"
+          },
+
+          {
+              "unity": "xícara",
+              "number": 0.25,
+              "name": "iogurte caseiro"
+          },
+
+          {
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "pasta de amendoim"
+          },
+
+          {
+              "unity": "unidade",
+              "number": 2,
+              "name": "bananas amassadas"
+          },
+
+          {
+              "unity": "pitada",
+              "number": 1,
+              "name": "sal"
+          },
+
+          {
+                "unity": "a gosto",
+                "number": null,
+                "name": "canela"
+          },
+
+          {
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "açúcar cristal orgânico (pode usar demerara ou mascavo, conforme preferir)"
+          },
+
+          {
+              "unity": "colher de sopa",
+              "number": 1,
+              "name": "melado de cana"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "gotinhas de chocolate"
+          }
+      ],
+
+    "preparation": [
+        "- Pré-aqueça o forno a 180 graus;",
+        "- Em uma tijela grande coloque todos os ingredientes secos: aveia, chia, açúcar, canela, sal e reserve;",
+        "- Em outra tijela amasse as bananas e adicione os ingredientes úmidos: iogurte, pasta de amendoim, melado e misture;",
+        "- Coloque a mistura úmida na seca e misture;",
+        "- Adicione as gotinhas de chocolate;",
+        "- Cubra uma forma grande com papel manteiga, molde os biscoitos no formato desejado;",
+        "- Leve ao forno por mais ou menos 20 minutos.",
+        "ao retirar do forno, transfira os biscoitos sobre o papel manteiga para uma outra superfície e deixe esfriar antes de retirar do papel manteiga. Se não deixar esfriar eles quebram."
+    ]
+  },
+
+  {
+      "name": "Bolo de Churros (sem glúten)",
+      "description": "Essa receita fica pronta em menos de 45 minutos, é simples, fácil e muito prática.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/04/bolo-churros04-1024x682.jpg",
+      "ingrediente": [
+
+          {
+              "unity": "unidade",
+              "number": 6,
+              "name": "ovos (claras e gemas separadas)"
+          },
+
+          {
+              "unity": "colheres de sopa",
+              "number": 6,
+              "name": "farinha sem glúten"
+          },
+
+          {
+              "unity": "colher de chá",
+              "number": 1,
+              "name": "fermento químico"
+          },
+
+          {
+              "unity": "colheres de sopa",
+              "number": 6,
+              "name": "açúcar cristal orgânico ou demerara"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "canela"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "açúcar para polvilhar"
+          },
+
+          {
+              "unity": "a gosto",
+              "number": null,
+              "name": "doce de leite de sua preferência"
+          }
+      ],
+
+    "preparation": [
+        "- Bater o açúcar e as gemas até que fique amarelo claro e reserve;",
+        "- Bata as claras em neve;",
+        "- Adicione à mistura de gemas e açúcar o fermento e a farinha sem glúten e misture;",
+        "- Lentamente adicione as claras em neve à massa até obter uma massa fofa e homogênea;",
+        "- Coloque em uma fôrma untada e enfarinhada;",
+        "-  Asse em forno pré-aquecido a 180 graus por mais ou menos 25 minutos ou até dourar;",
+        "- Espere esfriar para desenformar e montar. Ideal deixar um pouco na geladeira."
+    ]
+  },
+
+  {
+      "name": "Panqueca Integral de Banana",
+      "description": "Essa panquequinha integral de banana é ideal para o lanche ou café da manhã. Rende 4 unidades pequenas ou duas médias, depende do tamanho da sua frigideira.",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/01/PANQUECA-INTEGRAL.jpg",
+      "ingredients": [
+
+          {
+                "unity": "xícara cheia",
+                "number": 1,
+                "name": "amendoim sem casca moído"
+            },
+
+            {
+                "unity": "colher de sopa rasa",
+                "number": 1,
+                "name": "pasta de amendoim"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "banana média madura"
+            },
+
+            {
+                "unity": "pitada",
+                "number": 1,
+                "name": "sal e canela"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "baunilha e cacau"
+            }
+        ],
+    "preparation": [
+        "- Amasse a banana com as especiarias escolhidas;",
+        "- Acrescente a farinha de amendoim e incorpore-a na banana amassada;",
+        "- Molde de forma achatada, recheie com pasta de amendoim, e feche o docinho em forma de bolinha.",
+        "- Enrole e passe no amendoim moído o brigadeiro, um por um. Não precisa ser em amendoim, pode ser em cacau, whey de baunilha, pistache moído… o que preferir.",
+        "- Coloque no congelador ou geladeira por 30 minutos. O brigadeiro tem que estar durinho por fora mas não como uma pedra."
+    ]
+  },
+
+  {
+
+    "nome": "Cookies de amendoim",
+    "description": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
+    "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg",
+    "ingredients": [
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "farinha de amendoim"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "pasta de amendoim"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "canela"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "água"
+        }
+    ],
+
+"preparation":[
+
+    "- Misture todos os ingredientes e molde em círculos.",
+    "- Asse durante 25 minutos no forno a 220°."
+]
+},
+
+    {
+        "name": "Sorvete de Manga Light",
+        "description": "Essa receita de sorvete de manga light pode ser dada às crianças e caso ache necessário pode adoçar com mel.",
+        "image": "http://cozinhafit.com.br/wp-content/uploads/2015/12/sorvete-de-manga-post2.jpg",
+        "ingredients": [
+
+            {
+                "unity": "unidade",
+                "number": 0.5,
+                "name": "manga sem casca cortada"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 0.5,
+                "name": "inhame pequeno cozido"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 3,
+                "name": "morangos"
+            },
+
+            {
+                "unity": "g",
+                "number": 30,
+                "name": "whey de baunilha"
+            },
+
+            {
+                "unity": "colher de sobremesa",
+                "number": 1,
+                "name": "óleo de coco"
+            }
+        ],
+
+    "preparation": [
+        "- Bater todos os ingredientes, colocar em um potinho e refrigerar até firmar.",
+        "- Em um processador de alimentos equipado com a lâmina fixada, pulsar o tofu, beterraba e molho de soja 5 vezes para combinar; transferir para uma tigela grande.",
+        "- Adicionar cogumelos picados, cebola vermelha, páprica defumada e 1 colher de chá de sal na tigela e balançar para combinar.",
+        "- Espalhar a mistura uniformemente nas assadeiras preparadas e assar mexendo na metade do tempo, por 20 minutos ou até ficar crocante. Retirar e deixar esfriar.",
+        "- Na tigela limpa do processador de alimentos, pulsar a aveia até ficar com uma consistência parecida com farinha;",
+        "- Adicionar os feijões e pulsar 10 a 15 vezes para formar uma pasta grossa;",
+        "- Transferir para uma tigela grande com a pasta de tomate, alho, mostarda, alecrim, 1/2 colher de chá de sal, pimenta e ovos e misturar;",
+        "- Enrolar na mistura de cogumelos torrados e tofu. Cobrir e refrigerar por 10 minutos.",
+        "- Remover a mistura da geladeira e enrolar no óleo de coco ralado;",
+        "- Formar as porções de meia xícara da massa em empanadas e espalhar em cada cerca de uma colher de chá de mostarda amarela.",
+        "- Aquecer uma frigideira de ferro fundido em fogo médio-alto e adicionar o óleo vegetal à panela;",
+        "- Fritar cada empanada por cerca de 5 minutos em cada lado. Servir imediatamente."
+
+        ]
+   },
+
+    {
+        "name": "Âlmondega de Berinjela",
+        "description": "Além de saborosa e prática, essa receita de almôndega de berinjela é uma ótima opção vegetariana para você incluir no seu cotidiano. Rende 4 porções.",
+        "image": "https://truffle-assets.imgix.net/02f17d9b-almondega-de-berinjela-l-thumbjpg",
+        "ingredients" :[
+
+            {
+                "unity": null,
+                "number": null,
+                "name": "azeite de oliva para refogar"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 2,
+                "name": "dentes de alho picados"
+            },
+
+            {
+                "unity": "g",
+                "number": 680,
+                "name": "berinjela picada"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "pimenta do reino"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 0.5,
+                "name": "maço de manjericão"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "farinha de rosca"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "ovo"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.5,
+                "name": "parmesão ralado"
+            },
+
+            {
+                "unity": "xícaras",
+                "number": 2,
+                "name": "molho de tomate"
+            }
+        ],
+
+    "preparo": [
+        "- Em uma frigideira quente, dispor o azeite de oliva e refogar o alho.",
+        "- Juntar as berinjelas e temperar com sal e pimenta do reino a gosto;",
+        "- Deixar cozinhar até que evapore toda a água. Reservar para esfriar.",
+        "- No processador, triturar a berinjela sem chegar a ponto de pasta.",
+        "- Dispor em uma tigela e juntar o manjericão, a farinha de rosca, o ovo e o queijo parmesão.",
+        "- Formatar almôndegas e dispor em uma forma untada e levar ao forno 180 graus por 25 minutos ou até que dourem.",
+        "- Aquecer o molho de tomates em uma frigideira e dispor as almôndegas, deixar cozinhar por 5 minutos e servir com espaguete."
+    ]
+    },
+
+            {
+                "name": ""
+            }
+
+
+
+        ]
+    }
