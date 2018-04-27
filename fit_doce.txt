@@ -1,7 +1,8 @@
 {
         "sweet fit": [
-    
-    "name": "Cookies de amendoim",
+
+
+    { "name": "Cookies de amendoim",
     "description": "É uma boa opção para levar na marmita como lanche fit. A receita rende dois cookies grandes ou quatro médios.",
     "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/FullSizeRender.jpg",
     "ingredients": [
@@ -86,7 +87,7 @@
     {
       "name": "Bolinho de micro",
       "description": "É rápido, é fácil e é prático. Você pode usar uma banana e um ovo como base e incrementando com os ingredientes que tiver em casa. Rende 4 bolinhos.",
-      "name": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg",
+      "image": "http://cozinhafit.com.br/wp-content/uploads/2016/11/bolinho-de-micro-800x533.jpg",
       "ingredients": [
 
           {
@@ -184,7 +185,7 @@
 
       "preparation": [
           "- Misture bem todos os ingredientes. Faça bolinhas e achate levemente para que fiquem no formato de cookies.",
-          "- Leve para assar em forno pré aquecido a 200 graus até que os cookies fiquem corados.",
+          "- Leve para assar em forno pré aquecido a 200 graus até que os cookies fiquem corados."
       ]
   },
 
@@ -256,9 +257,9 @@
         "- Adicione os secos nos úmidos e misture bem;",
         "- Adicione a fruta e misture;",
         "- Coloque em forminhas de cupcake de silicone e leve ao forno por mais ou menos 30 minutos."
-    ] 
+    ]
   },
-  
+
   {
       "name": "Cookie de banana com iogurte",
       "description": "Essa receita de cookies leva gotinhas de chocolate, se preferir pode usar chocolate meio amargo ou uva passa.",
@@ -342,7 +343,7 @@
       "name": "Bolo de Churros (sem glúten)",
       "description": "Essa receita fica pronta em menos de 45 minutos, é simples, fácil e muito prática.",
       "image": "http://cozinhafit.com.br/wp-content/uploads/2016/04/bolo-churros04-1024x682.jpg",
-      "ingrediente" [
+      "ingrediente": [
 
           {
               "unity": "unidade",
@@ -393,7 +394,7 @@
         "- Adicione à mistura de gemas e açúcar o fermento e a farinha sem glúten e misture;",
         "- Lentamente adicione as claras em neve à massa até obter uma massa fofa e homogênea;",
         "- Coloque em uma fôrma untada e enfarinhada;",
-        "-  Asse em forno pré-aquecido a 180 graus por mais ou menos 25 minutos ou até dourar;"
+        "-  Asse em forno pré-aquecido a 180 graus por mais ou menos 25 minutos ou até dourar;",
         "- Espere esfriar para desenformar e montar. Ideal deixar um pouco na geladeira."
     ]
   },
@@ -532,13 +533,15 @@
         "- Formar as porções de meia xícara da massa em empanadas e espalhar em cada cerca de uma colher de chá de mostarda amarela.",
         "- Aquecer uma frigideira de ferro fundido em fogo médio-alto e adicionar o óleo vegetal à panela;",
         "- Fritar cada empanada por cerca de 5 minutos em cada lado. Servir imediatamente."
-    ]
+
+        ]
+   },
 
     {
         "name": "Âlmondega de Berinjela",
         "description": "Além de saborosa e prática, essa receita de almôndega de berinjela é uma ótima opção vegetariana para você incluir no seu cotidiano. Rende 4 porções.",
         "image": "https://truffle-assets.imgix.net/02f17d9b-almondega-de-berinjela-l-thumbjpg",
-        "ingredients" [
+        "ingredients" :[
 
             {
                 "unity": null,
@@ -611,12 +614,12 @@
         "- Aquecer o molho de tomates em uma frigideira e dispor as almôndegas, deixar cozinhar por 5 minutos e servir com espaguete."
     ]
     },
-        
+
             {
                 "name": ""
             }
 
-    
+
 
         ]
     }
