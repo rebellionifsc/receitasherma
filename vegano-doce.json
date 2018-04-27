@@ -1,0 +1,366 @@
+{
+    "sweet vegan": [
+
+        {
+            "name": "Sorvete de Paçoquinha com Amendoim torrado",
+            "description": "Uma deliciosa opção de sobremesa sem nenhum ingrediente de origem animal! Rende 4 porções.",
+            "image": "http://s2.glbimg.com/tNL01PyKOwAxHgMRowbxj98WTEI=/smart/e.glbimg.com/og/ed/f/original/2017/05/08/sorvete-pacoquinha1_-_creditos_cesar_godoy.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "açúcar demerara"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 10,
+                    "name": "paçoquinhas"
+                },
+
+                {
+                    "unity": "xícaras",
+                    "number": 2,
+                    "name": "leite de coco"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 1,
+                    "name": "leite de amendoim"
+                },
+
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "amendoim levemente torrado"
+                }
+            ],
+
+        "preparation": [
+            "No liquidificador, bata o açúcar, a paçoquinha, o leite de coco e o leite de amendoim até ficar homogêneo.",
+            "Transfira para um recipiente de inox com tampa e leve ao freezer por 4 horas.",
+            "Em seguida, bata novamente no liquidificador e leve ao freezer outra vez até firmar.",
+            "Retire da geladeira cinco minutos antes de servir e sirva-o decorado com o amendoim."
+        ]
+        },
+
+            {
+                "name": "Tortinha de Banana",
+                "description": "Que tal essa tortinha de banana para a sobremesa? Rende 3 porções.",
+                "image": "http://mfa.cachefly.net/chooseveg/images/uploads/2017/11/torta-banana-blog.jpg",
+                "ingredients": [
+
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "farinha de grão-de-bico"
+                    },
+
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "farinha de amêndoas"
+                    },
+
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "farinha de linhaça dourada"
+                    },
+
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "melado de cana"
+                    },
+
+                    {
+                        "unity": "colher de sopa",
+                        "number": 1,
+                        "name": "azeite"
+                    },
+
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "água"
+                    },
+
+                    {
+                        "unity": "unidade",
+                        "number": 2,
+                        "name": "bananas prata pequenas"
+                    },
+
+                    {
+                        "unity": "colher de chá",
+                        "number": 1,
+                        "name": "melado de cana"
+                    },
+
+                    {
+                        "unity": "colher de chá",
+                        "number": 1,
+                        "name": "açúcar de coco"
+                    },
+
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "flocos de amaranto"
+                    },
+
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "canela em pó"
+                    },
+
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "cardamomo em pó"
+                    },
+
+                    {
+                        "unity": null,
+                        "number": null,
+                        "name": "gengibre em pó"
+                    },
+
+                    {
+                        "unity": "colher de café",
+                        "number": 0.5,
+                        "name": "óleo de coco"
+                    }
+                ],
+            "preparation": [
+                "Massa",
+                "Misture o grão-de-bico, a farinha de amêndoas, farinha de linhaça, a colher de sopa de melado de cana, o azeite e a água com as mãos até formar uma massinha gostosa de trabalhar.",
+                "Modele em 3 forminhas individuais de silicone ou numa maior.",
+                "Recheio",
+                "Misture o restante dos ingredientes, preencha as massinhas e leve tudo ao forno preaquecido 180°C por 20-25 minutos."
+            ]
+            },
+
+                {
+                    "name": "Picolé de limão e kiwi",
+                    "description": "Aprenda a fazer uma deliciosa, refrescante e prática receita de picolé. Rende 6 unidades.",
+                    "image": "http://www.mundoboaforma.com.br/wp-content/uploads/2016/06/picole-kiwi-620x330.png",
+                    "ingredients": [
+
+                        {
+                            "unity": "xícara de chá",
+                            "number": 0.33,
+                            "name": "suco de limão"
+                        },
+
+                        {
+                            "unity": "xícara de chá",
+                            "number": 1,
+                            "name": "água filtrada"
+                        },
+
+                        {
+                            "unity": "a gosto",
+                            "number": null,
+                            "name": "açúcar"
+                        },
+
+                        {
+                            "unity": "a gosto",
+                            "number": null,
+                            "name": "folhas de manjericão"
+                        },
+
+                        {
+                            "unity": "unidade",
+                            "number": 3,
+                            "name": "kiwis médios"
+                        }
+                    ],
+
+                "preparation": [
+                    "Corte 3 kiwis médios descascados em rodelas com cerca de 1 cm e coloque duas em cada palito.",
+                    "Coloque cada um destes palitos em forminhas para picolés e reserve.",
+                    "Em um liquidificador coloque o suco de limão, a água, adoce com açúcar a gosto e adicione folhas de manjericão também a gosto.",
+                    "Bata bem e em seguida coloque nas forminhas.",
+                    "Leve para o freezer por pelo menos 5 horas antes de servir."
+                ]
+                },
+
+                    {
+                        "name": "Sorvete de manteiga de amenoim e amora",
+                        "description": "Uma deliciosa opção para um dia quente de verão! Serve 2 pessoas.",
+                        "image": "http://semmedida.com/wp-content/uploads/2013/06/sorvete_amora_larissa_januario_sem_medida5.jpg",
+                        "ingredients": [
+
+                            {
+                                "unity": "xícaras",
+                                "number": 2,
+                                "name": "amoras"
+                            },
+
+                            {
+                                "unity": "colheres de sopa",
+                                "number": 6,
+                                "name": "manteiga de amendoim"
+                            },
+
+                            {
+                                "unity": "xícara",
+                                "number": 0.5,
+                                "name": "açúcar orgânico"
+                            },
+
+                            {
+                                "unity": "xícara",
+                                "number": 0.5,
+                                "name": "leite vegetal"
+                            }
+                        ],
+
+                    "preparation": [
+                        "Em uma panela misture as amoras com o açúcar e cozinhe rapidamente em fogo baixo, por cerca de 3 minutos.",
+                        "Separe a calda das frutas e reserve.",
+                        "Em um processador ou liquidificador, adicione a manteiga de amendoim, o leite vegetal e a calda da amora, bata bem até ficar homogêneo.",
+                        "Por fim acrescente as amoras e bata rapidamente em modo pulsar para triturá-las grosseiramente.",
+                        "Leve ao freezer até atingir a consistência de sorvete."
+                    ]
+                    },
+
+                        {
+                            "name": "Brigadeiro de avelã",
+                            "description": "Uma deliciosa opção de docinhos para aniversário com ingredientes sem origem animal.",
+                            "image": "http://www.veggietal.com.br/wp-content/uploads/2015/04/brigadeiro-vegano-avela.jpg",
+                            "ingredients": [
+
+                                {
+                                    "unity": "xícara",
+                                    "number": 0.5,
+                                    "name": "avelãs"
+                                },
+
+                                {
+                                    "unity": "xícara",
+                                    "number": 0.5,
+                                    "name": "açúcar orgânico"
+                                },
+
+                                {
+                                    "unity": "xícara",
+                                    "number": 1,
+                                    "name": "água"
+                                },
+
+                                {
+                                    "unity": "colheres de sopa",
+                                    "number": 3,
+                                    "name": "cacau em pó"
+                                },
+
+                                {
+                                    "unity": "gotas",
+                                    "number": 5,
+                                    "name": "essência de baunilha"
+                                },
+
+                                {
+                                    "unity": "colher de sopa",
+                                    "number": 1,
+                                    "name": "farinha de trigo ou arroz"
+                                },
+
+                                {
+                                    "unity": "colheres de sopa",
+                                    "number": 2,
+                                    "name": "óleo de coco"
+                                },
+
+                                {
+                                    "unity": null,
+                                    "number": null,
+                                    "name": "cacau em pó, avelãs picadas ou confeitos veganos para enrolar"
+                                }
+                            ],
+
+                        "preparation": [
+                            "Deixe as avelãs de molho em água por no mínimo 4 horas. Escorra.",
+                            "No liquidificador, bata bem todos os ingredientes.",
+                            "Leve para cozinhar em fogo médio, mexendo sempre até desgrudar do fundo da panela.",
+                            "Aguarde esfriar e deixe na geladeira por no mínimo 1 hora.",
+                            "Umedeça as mãos com água, enrole e passe em cacau, avelãs picadas ou confeitos veganos."
+                        ]
+                        },
+
+                            {
+                                "name": "Sundade de amêndoas com geléia",
+                                "description": "Ótima opção para sobremesa do almoço de domingo com a família e amigos.",
+                                "image": "http://www.morangosatibaia.com.br/public/images/receitas/brieassado_framboesas1.jpg",
+                                "ingredients": [
+
+                                    {
+                                        "unity": "xícara",
+                                        "number": 0.5,
+                                        "name": "amêndoas deixadas de molho durante a noite"
+                                    },
+
+                                    {
+                                        "unity": "copo",
+                                        "number": 1.25,
+                                        "name": "água"
+                                    },
+
+                                    {
+                                        "unity": "unidade",
+                                        "number": 6,
+                                        "name": "tâmaras sem caroço picadas e deixadas de molho por pelo menos 1 hora"
+                                    },
+
+                                    {
+                                        "unity": "colher de sopa",
+                                        "number": 1,
+                                        "name": "farinha de arroz"
+                                    },
+
+                                    {
+                                        "unity": "colher de sopa",
+                                        "number": 1,
+                                        "name": "açúcar orgânico"
+                                    },
+
+                                    {
+                                        "unity": "gotas",
+                                        "number": 4-5,
+                                        "name": "essência de baunilha"
+                                    },
+
+                                    {
+                                        "unity": null,
+                                        "number": null,
+                                        "name": "amendoins sem pele triturados"
+                                    },
+
+                                    {
+                                        "unity": "a gosto",
+                                        "number": null,
+                                        "name": "geléia, calda de frutas ou outra cobertura vegana"
+                                    }
+                                ],
+
+                            "preparation": [
+                                "Em uma panela, misture 1/4 de copo de água com a farinha de arroz e a colher de açúcar; leve para cozinhar em fogo baixo, mexendo até engrossar. Deixe esfriar.",
+                                "Escorra  as amêndoas e bata no liquidificador com 1 copo de água",
+                                "Escorra as tâmaras e acrescente ao liquidificador, batendo até ficar bem homogêneo.",
+                                "Por fim, junte e bata o creme de arroz. Leve para o freezer em recipiente tampado até endurecer.",
+                                "No momento de servir, bata o creme novamente no liquidificador."
+                            ]
+                            },
+
+                                {
+                                    "name": "
+                                }
+    ]
+}
