@@ -1,11 +1,11 @@
 {
 	"salty fit": [
 
-"name": "Bolovo de Frango Fit",
-              "description": "Essa receita pode ser uma opção de pré-treino por ser fonte de proteínas e carboidratos, também pode ser um lanche da tarde durante o trabalho ou na faculdade.",
-			  "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/2017-02-11-03.03.29-2.jpg",
-              "ingredients":
-              [
+			{"name": "Bolovo de Frango Fit",
+			 "description": "Essa receita pode ser uma opção de pré-treino por ser fonte de proteínas e carboidratos, também pode ser um lanche da tarde durante o trabalho ou na faculdade.",
+			 "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/2017-02-11-03.03.29-2.jpg",
+       "ingredients": [
+
                   {
                       "unity":"unidade",
                       "number": 4,
@@ -17,13 +17,13 @@
                       "number": 170,
                       "name": "peito de frango"
                     },
-                
+
                  {
                       "unity": "a gosto",
                       "number": null,
                       "name": "farinha de rosca, pode substituir por farinha de linhaça ou aveia"
                   }
-                  
+
                   ],
 
 				  "preparation": [
@@ -31,16 +31,16 @@
 					  "- Passe o frango temperado no processador de alimentos. Após, pegue um pouco do frango (com as mãos levemente umedecidas fica mais fácil), abra em formato de disco na palma da mão, coloque o ovo de codorna dentro e feche com cuidado. Leve ao congelador por 10 minutos.",
 					  "- Enquanto o bolovo endurece no congelador, prepare a farinha para empanar. A farinha de rosca pode ser temperada com páprica picante. Aqueça o forno a 210 graus.",
 					  "- Passe cada bolovo na farinha, mas não coloque demais, pois senão não fica crocante. Coloque em uma assadeira de silicone ou de alumínio untada com azeite. Coloque bebem pouquinho de azeite em cima de cada bolovo para pegar cor, mas não muito para não empapar e perder a crocância. Leve para assar no forno pré-aquecido por mais ou menos 30 minutos ou até dourar. E está pronto seu bolovo de frango fitness."
- 
+
 				  ]
                },
 
-		  
+
 		  {
 			  "name": "Abobrinha Recheada Low Carb",
 			  "description": "Essa receita de abobrinha assada low carb com queijo é ideal para quem quer reduzir a ingestão de carboidratos ou segue uma dieta paleo. Funciona muito bem como acompanhamento para sua proteína adicionado, ainda uma salada de folhas você terá um prato completo. Rende 4 porções.",
 			  "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/AboParme5.jpg",
-			  "ingredients": 
+			  "ingredients":
 			  [
 				  {
 					  "unity": "unidade",
@@ -60,7 +60,7 @@
 					  "name": "azeite"
 
 					  },
-					  
+
 
 					  {
 					  "unity": "a gosto",
@@ -69,7 +69,7 @@
 					  }
 
 			  ],
-			  
+
 			  	"preparation": [
 					  "- Pré-aqueça o forno e tire o miolo das abobrinhas;",
 					  "- Passe azeite nelas, coloque o papel alumínio e leve para o forno e deixe por cerca de 10 minutos;",
@@ -81,8 +81,8 @@
           {
               "name": "Rolinhos de salmão com pepino",
 			  "description": "Você pode fazer outros recheios, com o que tiver na sua casa e que não precise assar. Outra ideia é fazer com abobrinhas e assar no forno, vai ficar ótimo também. Pode ser um lanche, uma entrada ou um acompanhamento para seu jantar Low Carb!",
-			  "image": "http://cozinhafit.com.br/wp-content/uploads/2017/01/Untitled-design.png"
-			  "ingredients":
+			  "image": "http://cozinhafit.com.br/wp-content/uploads/2017/01/Untitled-design.png",
+			  "ingredients" :
 			  [
 
 				  {
@@ -108,7 +108,7 @@
 					  "number": null,
 					  "name": "salmão defumado (ou alguma sobra de salmão assado que tenha na geladeira)"
 				  }
-				  
+
 				  ],
 
 				"preparation": [
@@ -117,7 +117,7 @@
 					"- Passe o recheio em toda a extensão de cada fatia e enrole."
 				]
           },
-        
+
         {
 			"name": "Pão de Queijo de Tapioca",
 			"description": "Um dos benefícios do pão de queijo de tapioca é que, como é caseiro, os ingredientes são selecionados por você. Além disso, você pode saborear com temperos que goste e criar versões pessoais e únicas. A receita rende 12 unidades.",
@@ -125,7 +125,7 @@
 			"ingredients": [
 
 				{
-					"unity: "xícara",
+					"unity": "xícara",
 					"number": 3,
 					"name": "farinha de tapioca"
 				},
@@ -342,7 +342,7 @@
 			],
 
 		"preparation": [
-			
+
 			"- Misture todos os ingredientes e deixe a massa descansar por 30min.",
 			"- Faça bolinhas para abrir a massa com o rolo ou abra uma massa grande e corte com o cortador redondo que preferir.",
 			"- Recheie a masssa com o recheio de sua preferencia e feche as três partes, criando um formato de triângulo.",
@@ -388,7 +388,7 @@
             },
 
             {
-                "unity": "a gosto"
+                "unity": "a gosto",
                 "number": null,
                 "name": "pimenta"
             },
@@ -508,7 +508,7 @@
 	{
 		"name": "Nuggets Caseiros Saudáveis",
 		"description": "Crianças adoram lanchinhos e nuggets são sempre uma pedida. Você pode usar mostardas ou algum outro molho que preferir para acompanhar.",
-		"name": "http://cozinhafit.com.br/wp-content/uploads/2016/07/nuggets-novo01-1024x682.jpg"
+		"image": "http://cozinhafit.com.br/wp-content/uploads/2016/07/nuggets-novo01-1024x682.jpg",
 		"ingredients": [
 
 			{
@@ -572,7 +572,7 @@
 	{
 		"name": "Sanduiche Colorido",
 		"description": "Esse sanduiche é bem completo, equivale a uma refeição e pode ser servido com uma salada de folhas verdes. Rende 4 unidades.",
-		"image": "http://cozinhafit.com.br/wp-content/uploads/2016/07/Sanduiche-Colorido-04-1024x682.jpg"
+		"image": "http://cozinhafit.com.br/wp-content/uploads/2016/07/Sanduiche-Colorido-04-1024x682.jpg",
 		"ingredients": [
 
 			{
@@ -597,7 +597,7 @@
 				"unity": "maço",
 				"number": 1,
 				"name": "espinafre"
-			},  
+			},
 
 			{
 				"unity": "colher de sopa",
@@ -663,7 +663,7 @@
 		"Pesto de espinafre:",
 		"- Cozinhe o espinafre no vapor;",
 		"- No liquidificador, coloque o espinafre cozido e espremido (retirar o excesso de água), adicione 1/2 xícara de azeite. 1 dente de alho, 2 colheres de sopa de queijo parmesão, 3 colheres de sopa de castanhas e suco de meio limão;",
-		"- Bata até obter um creme. Reserve."
+		"- Bata até obter um creme. Reserve.",
 
 		"Corte a abobrinha horizontalmente em fatias finas ou utilize um mandolim. Doure as fatias em uma frigideira um um pouquinho de azeite.",
 
@@ -724,7 +724,7 @@
 			},
 
 			{
-				"unity": "colher de café";
+				"unity": "colher de café",
 				"number": 1,
 				"name": "manteiga"
 			},
@@ -756,7 +756,7 @@
 
 	"preparation": [
 		"- Corte as batatas em cubos (não é necessário tirar a casca) e cozinhe em água;",
-		"- 	Em uma outra panela, refogue em azeite de oliva metade da cebola cortada em cubinhos pequenos até ficar transparente;",
+		"- Em uma outra panela, refogue em azeite de oliva metade da cebola cortada em cubinhos pequenos até ficar transparente;",
 		"- Adicione o alho espremido e refogue mais um pouco;",
 		"- Adicione os tomates picados (pode ser com casca e semente) e cozinhe até amolecerem. Se necessário, adicione um pouco de água;",
 		"- Tempere como manjericão, sal, pimenta e outros temperos que goste;",
@@ -765,7 +765,7 @@
 		"- Em uma panela refogue o restante da cebola em azeite e com uma colher de café de manteiga;",
 		"- Em seguida adicione as batatas cozidas e o leite;",
 		"- Com a ajuda de um mixer triture as batatas na própria panela;",
-		"- Misture bem, tempere com sal, pimenta e outros temperos do seu gosto."
+		"- Misture bem, tempere com sal, pimenta e outros temperos do seu gosto.",
 			"Montagem",
 		"- Em um refratário coloque um pouco do purê e cubra o fundo do refratário;",
 		"- Em seguida coloque o recheio de frango e espalhe por cima;",
@@ -844,18 +844,14 @@
 		"- Em seguida, acomode as coxas em um refratário, despeje o molho por cima;",
 		"- Corte uma cebola com casca em 4 pedaços e coloque dos lados;",
 		"- Cubra com papel alumínio e leve ao forno pré aquecido a 180 graus por aproximadamente 40 minutos;",
-		"- Retire o papel alumínio e deixe assar por mais 15 minutos a 205 graus."
+		"- Retire o papel alumínio, deixe assar por mais 15 minutos a 205 graus."
 	]
-	},
+	}
 
 
 
-	
+
 
 ]
 
 }
-
-		
-        
-          
