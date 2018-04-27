@@ -333,7 +333,7 @@
 
                                     {
                                         "unity": "gotas",
-                                        "number": 4-5,
+                                        "number": 4,
                                         "name": "essência de baunilha"
                                     },
 
@@ -360,7 +360,99 @@
                             },
 
                                 {
-                                    "name": "
-                                }
+                                    "name": "Bombom com recheio de chocolate com menta",
+                                    "description": "Ótima opção para quando bater a vontade de um docinho no meio do dia",
+                                    "image": "http://www.veggietal.com.br/wp-content/uploads/2016/03/bombom-menta.jpg",
+                                    "ingredients": [
+
+                                        {
+                                            "unity": "xícara",
+                                            "number": 1.5,
+                                            "name": "chocolate meio amargo picado"
+                                        },
+
+                                        {
+                                            "unity": "xícara",
+                                            "number": 0.25,
+                                            "name": "leite vegetal de sua preferência"
+                                        },
+
+                                        {
+                                            "unity": "xícara",
+                                            "number": 0.5,
+                                            "name": "açúcar orgânico"
+                                        },
+
+                                        {
+                                            "unity": "colheres de sopa",
+                                            "number": 3,
+                                            "name": "óleo de coco"
+                                        },
+
+                                        {
+                                            "unity": "colher de sopa",
+                                            "number": 1,
+                                            "name": "farinha de trigo"
+                                        },
+
+                                        {
+                                            "unity": "colherzinha de café",
+                                            "number": 1,
+                                            "name": "essência de menta ou óleo essencial de menta"
+                                        }
+                                    ],
+
+                                "preparation": [
+                                    "Em uma panela, misture o leite vegetal, o açúcar e o óleo de coco e leve para cozinhar em fogo baixo por cerca de 5 minutos, mexendo de vez em quando para não queimar.",
+                                    "Dissolva a farinha de trigo em 2 colheres de leite vegetal e despeje na panela, mexendo bem até engrossar. Reserve.",
+                                    "Derreta 1 xícara de chocolate em banho-maria.",
+                                    "Para a ‘temperagem’, misture o restante do chocolate picado ao chocolate derretido e mexa vigorosamente por alguns minutos.",
+                                    "Teste uma pequena quantidade de chocolate nos lábios; se a temperatura parecer levemente fria, já está no ponto.",
+                                    "Misture 3 colheres cheias deste chocolate derretido e o óleo de menta ao creme previamente cozido.",
+                                    "Mexa bem e deixe na geladeira para esfriar.",
+                                    "Com o auxílio de uma colher pequena, despeje pequenas quantidades de chocolate derretido na forma para bombons, espalhe bem e leve para a geladeira por cerca de 5 minutos.",
+                                    "Coloque pequenas quantidades do creme de chocolate com menta em cada bombom, cubra com mais chocolate e leve novamente à geladeira por mais 5 minutos.",
+                                    "Desenforme e sirva."
+                                ]
+                                },
+
+                                    {
+                                        "name": "Picolé de morango",
+                                        "description": "Um picolé natural e saudável, ótima opção para as crianças numa tarde de verão. Rende 6 unidades médias ou 4 grandes.",
+                                        "image": "http://www.veggietal.com.br/wp-content/uploads/2017/10/morango-picole.jpg",
+                                        "ingredients": [
+
+                                            {
+                                                "unity": "unidade",
+                                                "number": 1,
+                                                "name": "bandeja de morangos"
+                                            },
+
+                                            {
+                                                "unity": "xícara",
+                                                "number": 0.25,
+                                                "name": "água ou leite vegetal"
+                                            },
+
+                                            {
+                                                "unity": "a gosto",
+                                                "number": null,
+                                                "name": "açúcar orgânico"
+                                            },
+
+                                            {
+                                                "unity": "colher de sopa",
+                                                "number": 1,
+                                                "name": "chia"
+                                            }
+                                        ],
+                                    "preparation": [
+                                        "Fatie cerca de 5 morangos e reserve.",
+                                        "Bata o restante dos morangos com a água e o açúcar no liquidificador.",
+                                        "Em seguida misture todos os ingredientes em uma panela e ferva em fogo baixo por cerca de 3 minutos. Aguarde esfriar.",
+                                        "Despeje nas forminhas e leve para o freezer até endurecer.",
+                                        "Se desejar, adicione alguns morangos crus picados à forminha antes de despejar o líquido."
+                                    ]
+                                    }
     ]
 }
