@@ -117,7 +117,7 @@
             ],
 
         "preparation": [
-            "- Pré-aquecer o forno a 220 graus celsius e preparar 2 assadeiras com papel manteiga."
+            "- Pré-aquecer o forno a 220 graus celsius e preparar 2 assadeiras com papel manteiga.",
         "- Bater todos os ingredientes, colocar em um potinho e refrigerar até firmar.",
         "- Em um processador de alimentos equipado com a lâmina fixada, pulsar o tofu, beterraba e molho de soja 5 vezes para combinar; transferir para uma tigela grande.",
         "- Adicionar cogumelos picados, cebola vermelha, páprica defumada e 1 colher de chá de sal na tigela e balançar para combinar.",
@@ -137,7 +137,7 @@
         "name": "Âlmondega de Berinjela",
         "description": "Além de saborosa e prática, essa receita de almôndega de berinjela é uma ótima opção vegetariana para você incluir no seu cotidiano. Rende 4 porções.",
         "image": "https://truffle-assets.imgix.net/02f17d9b-almondega-de-berinjela-l-thumbjpg",
-        "ingredients" [
+        "ingredients": [
 
             {
                 "unity": null,
@@ -210,7 +210,7 @@
         "Aquecer o molho de tomates em uma frigideira e dispor as almôndegas, deixar cozinhar por 5 minutos e servir com espaguete."
     ]
     },
-        
+
             {
                 "name": "Quibe de Abóbora Recheado na Travessa",
                 "description": "Essa receita de quibe de abóbora recheado na travessa vai te surpreender! Serve 5 pessoas.",
@@ -643,7 +643,7 @@
                                         "name": "Bolonhesa de Lentilha",
                                         "description": "Proteína de soja não é o único “substituto” de carne na alimentação vegetariana. A lentilha pode ser usada em tortas, hambúrgueres e em molhos, como nessa rceita. Serve 4 pessoas.",
                                         "image": "http://gordelicias.biz/wp-content/uploads/2014/07/bolonhesadelentilha_gordelicias-e1404683917714.jpg",
-                                        "ingredients": "[
+                                        "ingredients": [
 
                                             {
                                                 "unity": "xícara",
@@ -703,7 +703,7 @@
                                     "Você pode servir com uma massa ou lasanha, conforme preferir."
                                 ]
                                     },
-
+                                    {
                                             "name": "Risoto de Cenoura",
                                             "description": "Uma receita fácil e simples que fica deliciosa! Você pode substituir a carne por legumes, queijo, ou o que preferir.",
                                             "image": "http://gordelicias.biz/wp-content/uploads/2013/01/risoto-cenoura4.jpg",
@@ -724,7 +724,7 @@
                                                 {
                                                     "unity": "colheres de sopa",
                                                     "number": 2,
-                                                    "name": "manteiga
+                                                    "name": "manteiga"
                                                 },
 
                                                 {
@@ -814,7 +814,7 @@
                     {
                         "unity": "xícara",
                         "number": 1,
-                        "name": molho de tomate"
+                        "name": "molho de tomate"
                     },
 
                     {
@@ -844,7 +844,7 @@
                     {
                         "unity": "g",
                         "number": 400,
-                        "name": "mussarela ralado grosso (ou fatiado e cortado em tiras)
+                        "name": "mussarela ralado grosso (ou fatiado e cortado em tiras)"
                     },
 
                     {
@@ -929,7 +929,7 @@
                             },
 
                             {
-                                "unity": "lascas"
+                                "unity": "lascas",
                                 "number": null,
                                 "name": "parmesão para servir"
                             }
@@ -1158,11 +1158,7 @@
                                                 "Corte as cinco espigas, triture no liquidificador e nessa massa acrescente temperos a gosto. ",
                                                 "Esquente o óleo e coloque os bolinhos aos poucos com a colher para fritar."
                                             ]
-                                            },
-
-                                                    {
-                                                        "name": 
-                                                    }
+                                            }
 
     ]
-}   
+}
