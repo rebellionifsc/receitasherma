@@ -1,11 +1,12 @@
 {
 	"salty fit": [
 
-			{"name": "Bolovo de Frango Fit",
-			 "description": "Essa receita pode ser uma opção de pré-treino por ser fonte de proteínas e carboidratos, também pode ser um lanche da tarde durante o trabalho ou na faculdade.",
-			 "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/2017-02-11-03.03.29-2.jpg",
-       "ingredients": [
-
+{
+    "name": "Bolovo de Frango Fit",
+              "description": "Essa receita pode ser uma opção de pré-treino por ser fonte de proteínas e carboidratos, também pode ser um lanche da tarde durante o trabalho ou na faculdade.",
+			  "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/2017-02-11-03.03.29-2.jpg",
+              "ingredients":
+              [
                   {
                       "unity":"unidade",
                       "number": 4,
@@ -17,13 +18,13 @@
                       "number": 170,
                       "name": "peito de frango"
                     },
-
+                
                  {
                       "unity": "a gosto",
                       "number": null,
                       "name": "farinha de rosca, pode substituir por farinha de linhaça ou aveia"
                   }
-
+                  
                   ],
 
 				  "preparation": [
@@ -31,16 +32,16 @@
 					  "- Passe o frango temperado no processador de alimentos. Após, pegue um pouco do frango (com as mãos levemente umedecidas fica mais fácil), abra em formato de disco na palma da mão, coloque o ovo de codorna dentro e feche com cuidado. Leve ao congelador por 10 minutos.",
 					  "- Enquanto o bolovo endurece no congelador, prepare a farinha para empanar. A farinha de rosca pode ser temperada com páprica picante. Aqueça o forno a 210 graus.",
 					  "- Passe cada bolovo na farinha, mas não coloque demais, pois senão não fica crocante. Coloque em uma assadeira de silicone ou de alumínio untada com azeite. Coloque bebem pouquinho de azeite em cima de cada bolovo para pegar cor, mas não muito para não empapar e perder a crocância. Leve para assar no forno pré-aquecido por mais ou menos 30 minutos ou até dourar. E está pronto seu bolovo de frango fitness."
-
+ 
 				  ]
                },
 
-
+		  
 		  {
 			  "name": "Abobrinha Recheada Low Carb",
 			  "description": "Essa receita de abobrinha assada low carb com queijo é ideal para quem quer reduzir a ingestão de carboidratos ou segue uma dieta paleo. Funciona muito bem como acompanhamento para sua proteína adicionado, ainda uma salada de folhas você terá um prato completo. Rende 4 porções.",
 			  "image": "http://cozinhafit.com.br/wp-content/uploads/2017/02/AboParme5.jpg",
-			  "ingredients":
+			  "ingredients": 
 			  [
 				  {
 					  "unity": "unidade",
@@ -60,7 +61,7 @@
 					  "name": "azeite"
 
 					  },
-
+					  
 
 					  {
 					  "unity": "a gosto",
@@ -69,7 +70,7 @@
 					  }
 
 			  ],
-
+			  
 			  	"preparation": [
 					  "- Pré-aqueça o forno e tire o miolo das abobrinhas;",
 					  "- Passe azeite nelas, coloque o papel alumínio e leve para o forno e deixe por cerca de 10 minutos;",
@@ -82,7 +83,7 @@
               "name": "Rolinhos de salmão com pepino",
 			  "description": "Você pode fazer outros recheios, com o que tiver na sua casa e que não precise assar. Outra ideia é fazer com abobrinhas e assar no forno, vai ficar ótimo também. Pode ser um lanche, uma entrada ou um acompanhamento para seu jantar Low Carb!",
 			  "image": "http://cozinhafit.com.br/wp-content/uploads/2017/01/Untitled-design.png",
-			  "ingredients" :
+			  "ingredients":
 			  [
 
 				  {
@@ -108,7 +109,7 @@
 					  "number": null,
 					  "name": "salmão defumado (ou alguma sobra de salmão assado que tenha na geladeira)"
 				  }
-
+				  
 				  ],
 
 				"preparation": [
@@ -117,7 +118,7 @@
 					"- Passe o recheio em toda a extensão de cada fatia e enrole."
 				]
           },
-
+        
         {
 			"name": "Pão de Queijo de Tapioca",
 			"description": "Um dos benefícios do pão de queijo de tapioca é que, como é caseiro, os ingredientes são selecionados por você. Além disso, você pode saborear com temperos que goste e criar versões pessoais e únicas. A receita rende 12 unidades.",
@@ -342,7 +343,7 @@
 			],
 
 		"preparation": [
-
+			
 			"- Misture todos os ingredientes e deixe a massa descansar por 30min.",
 			"- Faça bolinhas para abrir a massa com o rolo ou abra uma massa grande e corte com o cortador redondo que preferir.",
 			"- Recheie a masssa com o recheio de sua preferencia e feche as três partes, criando um formato de triângulo.",
@@ -508,7 +509,7 @@
 	{
 		"name": "Nuggets Caseiros Saudáveis",
 		"description": "Crianças adoram lanchinhos e nuggets são sempre uma pedida. Você pode usar mostardas ou algum outro molho que preferir para acompanhar.",
-		"image": "http://cozinhafit.com.br/wp-content/uploads/2016/07/nuggets-novo01-1024x682.jpg",
+		"name": "http://cozinhafit.com.br/wp-content/uploads/2016/07/nuggets-novo01-1024x682.jpg",
 		"ingredients": [
 
 			{
@@ -597,7 +598,7 @@
 				"unity": "maço",
 				"number": 1,
 				"name": "espinafre"
-			},
+			},  
 
 			{
 				"unity": "colher de sopa",
@@ -755,8 +756,8 @@
 		],
 
 	"preparation": [
-		"- Corte as batatas em cubos (não é necessário tirar a casca) e cozinhe em água;",
-		"- Em uma outra panela, refogue em azeite de oliva metade da cebola cortada em cubinhos pequenos até ficar transparente;",
+		"Corte as batatas em cubos (não é necessário tirar a casca) e cozinhe em água",
+		"Em uma outra panela, refogue em azeite de oliva metade da cebola cortada em cubinhos pequenos até ficar transparente",
 		"- Adicione o alho espremido e refogue mais um pouco;",
 		"- Adicione os tomates picados (pode ser com casca e semente) e cozinhe até amolecerem. Se necessário, adicione um pouco de água;",
 		"- Tempere como manjericão, sal, pimenta e outros temperos que goste;",
@@ -844,14 +845,545 @@
 		"- Em seguida, acomode as coxas em um refratário, despeje o molho por cima;",
 		"- Corte uma cebola com casca em 4 pedaços e coloque dos lados;",
 		"- Cubra com papel alumínio e leve ao forno pré aquecido a 180 graus por aproximadamente 40 minutos;",
-		"- Retire o papel alumínio, deixe assar por mais 15 minutos a 205 graus."
+		"- Retire o papel alumínio e deixe assar por mais 15 minutos a 205 graus."
 	]
-	}
+	},
+
+{
+        "name": "Hambúrguer de Carne e Couve",
+        "description": "Faça os hambúrgueres e congele as porções separadamente, assim você só descongela no dia o que for comer e evita o desperdício. Descongelar e recongelar a comida não é indicado, pois pode favorecer a proliferação de microorganismos prejudiciais a sua saúde. Você pode substituir a carne por frango, se preferir.",
+        "image": "http://cozinhafit.com.br/wp-content/uploads/2015/12/hamburguer-mari-03.jpg",
+        "ingredients": [
+
+            {
+                "unity": "g",
+                "number": 200,
+                "name": "patinho moído"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "clara"
+            },
+
+            {
+                "unity": "colher de sopa",
+                "number": 1,
+                "name": "aveia ou amaranto em flocos"
+            },
+
+            {
+                "unity": "colher de sopa",
+                "number": 0.5,
+                "name": "farelo de linhaça"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "couve picadinha"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "tomate sem semente cortado em cubos"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 0.5,
+                "name": "cebola picada"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "dente de alho picado"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal, pimenta, salsinha e cominho"
+            }
+        ],
+
+    "preparation": [
+        "- Refogue a cebola, o alho e o tomate picadinho e reserve.",
+        "- Em uma travessa, misture a carne, a aveia, a linhaça, a couve, a clara, o cominho e demais temperos;",
+        "- Acrescente o refogado, acerte o sal e a pimenta e misture bem.",
+        "- Faça as bolinhas e achate formando o hambúrguer;",
+        "- Se precisar, coloque mais farelo de linhaça ou aveia para dar a liga.",
+        "- Coloque em uma assadeira untada com azeite e leve ao forno pré-aquecido por aproximadamente 25 minutos ou até dourar."
+    ]
+    },
+
+    {
+        "name": "Tacos mexicanos low carb",
+		"description": "Essa receita é pra você matar a vontade de uma comidinha mexicana sem sair da dieta.",
+		"image": "https://www.receiteria.com.br/wp-content/uploads/receitas-de-tacos-mexicanos.jpg",
+		"ingredients": [
+
+			{
+				"unity": "unidade",
+				"number": 4,
+				"name": "ovos"
+			},
+
+			{
+				"unity": "colheres",
+				"number": 4,
+				"name": "manteiga derretida"
+			},
+
+			{
+				"unity": "colheres de sopa",
+				"number": 4,
+				"name": "parmesão ralado"
+			},
+
+			{
+				"unity": "colheres de sopa",
+				"number": 4,
+				"name": "requeijão cremoso"
+			},
+
+			{
+				"unity": "colheres de sopa",
+				"number": 4,
+				"name": "coco ralado"
+			},
+
+			{
+				"unity": "colheres de sopa",
+				"number": 4,
+				"name": "leite de coco"
+			},
+
+			{
+				"unity": "colher de chá",
+				"number": 1,
+				"name": "fermento químico"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "sal"
+			},
+
+			{
+				"unity": "unidade",
+				"number": 1,
+				"name": "lata de atum"
+			},
+
+			{
+				"unity": "fatias",
+				"number": 2,
+				"name": "queijo mussarela picada"
+			},
+
+			{
+				"unity": "unidade",
+				"number": 0.25,
+				"name": "cebola roxa picada"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "azeitonas sem caroço picadas"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "salsa picada"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "cebolinha picada"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "orégano"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "tomilho"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "semente de coentro picada"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "pimenta calabresa"
+			},
+			
+			{
+				"unity": "pitada",
+				"number": 1,
+				"name": "canela em pó"
+			},
+
+			{
+				"unity": "unidade",
+				"number": null,
+				"name": "suco de um limão pequeno"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "molho de pimenta"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "sal"
+			},
+
+			{
+				"unity": "a gosto",
+				"number": null,
+				"name": "pimenta do reino"
+			}
+		],
+
+		"preparation": [
+			"Misture bem os ovos, a manteiga derretida, o parmesão, requeijão, coco ralado, leite de coco, fermento químico e o sal até ficar uma massa homogênea",
+			"Misture os ingredientes restantes e deixe na geladeira até a hora de montar o prato",
+			"Em uma frigideira antiaderente já aquecida, coloque um pouco da massa (somente o suficiente para forrar o fundo da frigideira, deixando uma camada fina)",
+			"Tampe a frigideira e deixe no fogo baixo até a borda da massa escurecer",
+			"Vire o lado da massa e deixe dourar o outro lado ou até a massa ficar crocante",
+			"Retire do fogo e cubra metade da massa com o recheio e dobre ao meio",
+			"Para servir, basta colocar um pouco mais de salsa por cima e regar com um pouco de azeite"
+		]
+    },
+
+{
+	"name": "Torta de atum",
+	"description": "Essa torta é uma ótima opção para seu jantar no meio da semana",
+	"image": "http://wp.clicrbs.com.br/aguanaboca/files/2014/05/torta.jpg",
+	"ingredients": [
+
+		{
+			"unity": "unidade",
+			"number": 3,
+			"name": "ovos"
+		},
+
+		{
+			"unity": "g",
+			"number": 150,
+			"name": "queijo mussarela"
+		},
+
+		{
+			"unity": "colher de chá",
+			"number": 1,
+			"name": "fermento em pó"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "caixa de creme de leite"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 2,
+			"name": "latas de atum sólido"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "tomate cereja"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "dente de alho picado"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "sal"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "orégano"
+		}
+	],
+
+	"preparation": [
+		"Bata os 3 ovos com um batedor de arame",
+		"Adicione os 150 g de mussarela, ralada ou picotada à mão, o creme de leite, o fermento e o sal. Misture bem e reserve",
+		"Em um outro recipiente, coloque o atum, os tomates cereja, sal e orégano. Misture bem.",
+		"Unte uma forma com um pouco de azeite. Coloque metade da massa.",
+		"Adicione o atum e cubra com o resto da massa",
+		"Coloque no forno preaquecido a 180° C por mais ou menos 40 minutos",
+		"Sirva quente"
+	]
+},
+
+{
+	"name": "Torta de alho-poró, espinafre e cebola caramelizada",
+	"description": "Essa torta de alho poró, espinafre e cebola caramelizada vai lhe conquistar, com certeza.",
+	"image": "https://abrilmdemulher.files.wordpress.com/2016/09/torta-de-alho-poro-espinafre-e-cebola-caramelizada.jpeg?quality=90&strip=info&w=654&h=436&crop=1",
+	"ingredientes": [
+
+		{
+			"unity": "xícara",
+			"number": 1.5,
+			"name": "grão de bico cozido"
+		},
+
+		{
+			"unity": "colheres de sopa",
+			"number": 2,
+			"name": "azeite de oliva"
+		},
+
+		{
+			"unity": "colheres de chá",
+			"number": 2,
+			"name": "sal marinho ou flor de sal"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 2,
+			"name": "ovos"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 3,
+			"name": "claras de ovo"
+		},
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "espinafre picado"
+		},
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "alho poró picado"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "cebola cortada em rodelas"
+		},
+
+		{
+			"unity": "colheres de sopa",
+			"number": 2,
+			"name": "açúcar mascavo"
+		},
+
+		{
+			"unity": "pitadas",
+			"number": 4,
+			"name": "pimenta do reino moída"
+		}
+	],
+
+	"preparation": [
+		"Deixe 1 xícara e 1/2 de chá de grão-de-bico de molho da noite para o dia e então cozinhe na panela de pressão por aproximadamente 30 minutos, a pele que envolve o grão de bico irá soltando aos poucos e deverá ser retirada.",
+		"Em um processador, bata o grão-de-bico, as duas colheres de azeite de oliva, uma colher de chá de flor-de-sal ou de sal marinho e espalhe na forma.",
+		"Em um bowl, misture os dois ovos, as três claras, uma xícara de espinafre picado, uma xícara de alho-poró picado, uma cebola cortada em rodelas, uma colher de flor-de-sal, duas colheres de açúcar mascavo, pimenta do reino moída e espalhe sobre a massa que já esta na forma.",
+		"Leve ao forno pré-aquecido a 200°C por 30 minutos."
+	]
+},
+
+{
+	"name": "Quiche levinho de alho-poró",
+	"description": "Além das tradicionais tortas, quiches também são uma opção para a hora do almoço. Você não vai se arrepender com esse quiche levinho de alho poró.",
+	"image": "https://abrilclaudia.files.wordpress.com/2017/03/quiche-levinho-de-alho-poro.jpeg?quality=85&strip=info",
+	"ingredients": [
+
+		{
+			"unity": "xícaras",
+			"number": 2,
+			"name": "farinha de trigo"
+		},
+
+		{
+			"unity": "g",
+			"number": 200,
+			"name": "manteiga"
+		},
+
+		{
+			"unity": "unidade",
+			"number":  4,
+			"name": "gemas de ovo"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "ovo inteiro"
+		},
+
+		{
+			"unity": "colher de sopa",
+			"number": 1,
+			"name": "manteiga sem sal"
+		},
+
+		{
+			"unity": "g",
+			"number": 300,
+			"name": "alho-poró cortado em rodelas"
+		},
+
+		{
+			"unity": "g",
+			"number": 150,
+			"name": "queijo parmesão ralado"
+		},
+
+		{
+			"unity": "g",
+			"number": 100,
+			"name": "queijo gruyère"
+		},
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "creme de leite fresco batido em ponto de chantilly"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 3,
+			"name": "clara de ovo batidas em ponto de neve"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "sal"
+		}
+	],
+
+	"preparation": [
+		"MASSA",
+		"Junte 2 xícaras de chá de farinha de trigo, uma barra de manteiga com sal, uma gema de ovo e um ovo inteiro em uma tigela.",
+		"Amasse bem a mistura até ficar em ponto homogêneo.",
+		"Depois, abra a massa e modele em uma forma de aro removível (aproximadamente 23/25cm diâmetro).",
+		"Com a ajuda de uma faca, retire o excesso, deixando uma altura aproximada nas bordas de 3 a 4cm.",
+		"RECHEIO",
+		"Aqueça a manteiga sem sal e refogue o alho-poró até ficar macio, reserve.",
+		"Em uma tigela funda, bata bem as três gemas, acrescente o alho-poró refogado e os queijos.",
+		"Adicione cuidadosamente o creme de leite batido, mexendo delicadamente de baixo para cima.",
+		"Junte, aos poucos, as três claras em neve, também mexendo delicadamente de baixo para cima.",
+		"Acerte o sal se julgar necessário.",
+		"MONTAGEM",
+		"Coloque o recheio na massa já preparada.",
+		"Asse em forno preaquecido a 180ºC até dourar um pouco (aproximadamente 30 a 40 minutos) ou, então, quando um palito for colocado no recheio sair seco."
+	]
+},
+
+{
+	"name": "Batata rostie recheada",
+	"description": "Batatas nunca são demais, então que tal uma batata rostie recheada?",
+	"image": "https://abrilclaudia.files.wordpress.com/2017/03/batata-rostie-recheada.jpeg?quality=85&strip=info",
+	"ingredients": [
+
+		{
+			"unity": "g",
+			"number": 350,
+			"name": "batata"
+		},
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "água fervente"
+		},
+
+		{
+			"unity": "cubo",
+			"number": 1,
+			"name": "caldo de legumes"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "abobrinha pequena ralada no ralo grosso"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "cenoura pequena ralada no ralo grosso"
+		},
+
+		{
+			"unity": "g",
+			"number": 150,
+			"name": "queijo branco ralado no ralo grosso"
+		},
+
+		{
+			"unity": "colheres de sopa",
+			"number": 2,
+			"name": "azeite de oliva"
+		}
+	],
+
+	"preparation": [
+		"Descasque as batatas e coloque-as em uma panela. Cubra com água e cozinhe por 10 minutos, ou até ficarem cozidas, porém firmes.",
+		"Não deixe a batata cozinhar demais ela deve ficar “al dente” para que fique crocante ao dourar.",
+		"Espere esfriar e rale as batatas no ralo grosso. Reserve. Você também pode utilizar a abobrinha e a cenoura com a casca.",
+		"Em uma tigela, coloque a água e dissolva o cubo de caldo de legumes",
+		"Divida em duas partes, na primeira misture a metade das batatas e reserve.",
+		"Em outra tigela, misture a abobrinha, a cenoura, o queijo e o restante do caldo de legumes dissolvido. Reserve.",
+		"Em uma frigideira grande (24cm de diâmetro), coloque o azeite. Espalhe metade da batata, forrando o fundo da frigideira.",
+		"Distribua o recheio e cubra com o restante da batata. Leve ao fogo médio por 15 minutos, ou até dourar. Vire cuidadosamente para dourar o outro lado. Sirva em seguida"
+	]
+}
 
 
 
 
+	
 
 ]
 
 }
+
+		
+        
+          

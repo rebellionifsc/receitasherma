@@ -453,6 +453,215 @@
                                         "Despeje nas forminhas e leve para o freezer até endurecer.",
                                         "Se desejar, adicione alguns morangos crus picados à forminha antes de despejar o líquido."
                                     ]
+                                    },
+                            {
+                                "name": "Bolo de laranja",
+                                "description": "Este bolo de laranja é uma delícia e super fácil de fazer! Serve 6 pessoas.",
+                                "image": "http://1.bp.blogspot.com/-8AN40YrDLmQ/UgKlbzDdveI/AAAAAAAAVaI/6GUOaCYcHrc/s1600/bolo-de-laranja-2.jpg",
+                                "ingredients": [
+
+                                    {
+                                        "unity": "xícara",
+                                        "number": 1,
+                                        "name": "farinha de trigo"
+                                    },
+
+                                    {
+                                        "unity": "xícara",
+                                        "number": 0.5,
+                                        "name": "farinha de trigo integral"
+                                    },
+
+                                    {
+                                        "unity": "xícara",
+                                        "number": 0.75,
+                                        "name": "açúcar cristal ou demerara"
+                                    },
+
+                                    {
+                                        "unity": "xícara",
+                                        "number": 1,
+                                        "name": "suco de laranja sem sementes"
+                                    },
+
+                                    {
+                                        "unity": "xícara",
+                                        "number": 0.25,
+                                        "name": "óleo vegetal"
+                                    },
+
+                                    {
+                                        "unity": "colheres de chá",
+                                        "number": 2,
+                                        "name": "raspas de laranja"
+                                    },
+
+                                    {
+                                        "unity": "colher de chá",
+                                        "number": 1.5,
+                                        "name": "fermento químico em pó"
                                     }
+                                ],
+                                
+                                "preparation": [
+                                    "Pré-aqueça o forno a 230ºC, unte a assadeira e polvilhe farinha sobre ela, reserve.",
+                                    "Em um liquidificador, coloque o óleo, o suco e as raspas de laranja, o açúcar, a farinha de trigo branca e a integral e bata tudo até obter uma mistura uniforme.",
+                                    "Adicione o fermento em pó e misture com a colher, ou bata rapidamente para o fermento se espalhar pela massa.",
+                                    "Coloque esta mistura na assadeira e asse por cerca de 40 minutos ou até o bolo ficar douradinho.",
+                                    "Se quiser, polvilhe açúcar de confeiteiro e salpique raspas de laranja para decorar."
+                                ]
+                            },
+                    {
+                        "name": "Smoothie Chocolatudo sem lactose",
+                        "description": "Esse é um smoothie super saudável que serve como uma café da manhã reforçado ou um lanche da tarde. Serve 2 pessoas",
+                        "image": "http://www.daninoce.com.br/wp-content/uploads/2015/05/receita-como-fazer-vamos-cozinha-smothie-chocolatudo-vegano-banana-leite-amendoas-mirtilo-cacau-2.jpg",
+                        "ingredients": [
+
+                            {
+                                "unity": "unidade",
+                                "number": 2,
+                                "name": "bananas"
+                            },
+
+                            {
+                                "unity": "ml",
+                                "number": 500,
+                                "name": "leite de amêndoas"
+                            },
+
+                            {
+                                "unity": "colher de sopa",
+                                "number": 1,
+                                "name": "cacau em pó"
+                            }
+                        ],
+
+                        "preparation": [
+                            "Para fazer seu próprio leite de amêndoas, coloque 200 gramas de amêndoas em uma jarra com 500 ml de água filtrada e deixe na geladeira por 24 horas.",
+                            "No dia seguinte, jogue fora essa água, coloque as amêndoas no liquidificador junto com 1 litro de água filtrada morna e bata bem.",
+                            "Coe com a ajuda de um pano e utilize o leite.",
+                            "Bata todos os ingredientes no liquidificador e sirva ainda gelado."
+                        ]
+
+                    },
+
+            {
+                "name": "Mingau de aveia e banana",
+                "description": "Vai bem em qualquer hora, seja no café da manhã, no lanche da tarde, ou no lanchinho da noite. Serve 2 pessoas.",
+                "image": "http://www.seucorpoperfeito.com.br/wp-content/uploads/2015/06/mingau-com-banana.jpg",
+                "ingredients": [
+
+                    {
+                        "unity": "xícara",
+                        "number": 0.5,
+                        "name": "aveia em flocos"
+                    },
+
+                    {
+                        "unity": "xícara",
+                        "number": 1,
+                        "name": "água filtrada"
+                    },
+
+                    {
+                        "unity": "unidade",
+                        "number": 2,
+                        "name": "bananas nanicas amassadas"
+                    },
+
+                    {
+                        "unity": "unidade",
+                        "number": 1,
+                        "name": "banana nanica cortada em rodelas"
+                    },
+
+                    {
+                        "unity": "colheres de chá",
+                        "number": 2,
+                        "name": "açúcar demerara ou cristal"
+                    },
+
+                    {
+                        "unity": "colheres de sopa",
+                        "number": 2,
+                        "name": "leite de coco"
+                    },
+
+                    {
+                        "unity": "a gosto",
+                        "number": null,
+                        "name": "canela"
+                    }
+                ],
+
+                "preparation": [
+                    "Amasse bem as bananas e coloque em uma panela em fogo médio, juntamente com a aveia, a água e o açúcar.",
+                    "Misture tudo e deixe cozinhando por cerca de 5 minutos, ou até o mingau engrossar.",
+                    "Adicione o leite de coco e misture.",
+                    "Coloque em um prato, polvilhe canela e decore com as rodelas de banana."
+
+                ]
+            },
+
+        {
+            "name": "Pão caseiro de banana e canela",
+            "description": "Apesar de se tratar de um pão doce, combina tanto com um queijo cremoso, quanto com manteiga e geleia.",
+            "image": "https://semlactose.com/wp-content/uploads/2008/03/pao-sem-lactose.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "xícaras",
+                    "number": 2.5,
+                    "name": "farinha de trigo branca"
+                },
+
+                {
+                    "unity": "colher de chá",
+                    "number": 1,
+                    "name": "canela"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 4,
+                    "name": "açúcar demerara"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 3,
+                    "name": "óleo vegetal"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "pacote de fermento biológico seco"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 2,
+                    "name": "bananas nanicas médias"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 1,
+                    "name": "leite de soja ou outro leite vegetal em temperatura ambiente ou morninho"
+                }
+            ],
+
+            "preparation": [
+                "Em uma bacia grande misture todos ingredientes menos as bananas.",
+                "Sove bastante até desgrudar das mãos, deixando crescer por 1 hora.",
+                "Depois, acrescente as bananas, dividindo em 6 pães.",
+                "Deixe-os crescer novamente em assadeiras untadas com manteiga.",
+                "Asse em forno médio, pre-aquecido até que dourem por cima.",
+                "Se sobrar muito, corte em fatias e congele. Aí, basta aquecer novamente no forno para ter sempre um pão fresquinho à mão."
+            ]
+        }
+
+        
     ]
 }

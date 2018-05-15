@@ -1,0 +1,203 @@
+{
+    "salty vegan": [
+
+        {
+            "name": "Esfiha de espinafre",
+            "description": "A massa fica crocante e vai muito bem com um molho de alho.",
+            "image": "http://reinoveggie.com.br/wp-content/uploads/2015/01/Esfihas-de-Espinafre-730x410.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "tablete",
+                    "number": 1,
+                    "name": "fermente biológico fresco ou seco"
+                },
+
+                {
+                    "unity": "ml",
+                    "number": 300,
+                    "name": "água morna"
+                },
+
+                {
+                    "unity": "ml",
+                    "number": 100,
+                    "name": "óleo"
+                },
+
+                {
+                    "unity": "colher de sobremesa",
+                    "number": 1,
+                    "name": "sal"
+                },
+
+                {
+                   "unity": "colher de sobremesa",
+                   "number": 1,
+                   "name": "açúcar"
+                },
+
+                {
+                    "unity": "xícaras",
+                    "number": 5,
+                    "name": "farinha de trigo (pode misturar branca com integral)"
+                },
+
+                {
+                    "unity": "maços",
+                    "number": 3,
+                    "name": "espinafre"
+                },
+
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "alho e cebola"
+                },
+
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "sal"
+                },
+
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "pimenta calabresa"
+                }
+            ],
+
+            "preparation": [
+                "Numa tigela grande dissolva completamente o fermento no açúcar e no sal.",
+                "Junte a água, que deve estar morna, e depois acrescente os demais ingredientes, adicionando a farinha de trigo por último e aos poucos.",
+                "Sove a massa numa mesa ou pia enfarinhada.",
+                "Deixe crescer por 30 minutos num local seco, encoberta por um pano de prato.",
+                "Para saber quando está pronta, basta tirar uma bolinha, colocar na água e esperá-la subir.",
+                "Enquanto isso, você pode fazer o recheio. Basta lavar o espinafre, separando as folhas dos talos.",
+                "Dourar uma cebola e alho no azeite ou manteiga/margarina. Acrescente as folhas, tempere e espere que murchem.",
+                "Então, tire o excesso de água com uma peneira (esta água rica em nutrientes, pode ser usada para cozinhar arroz, fazer um macarrão ao pesto ou sopa).",
+                "Com o recheio pronto e a massa crescida, você pode separar esta última em bolinhas pequenas, abri-las e modelá-las com um objeto redondo.",
+                "Coloque o recheio e faça as bordinhas. Achate o recheio no centro para que preencha todo o espaço da massa.",
+                "Disponhas as esfihas numa assadeira (não untar).",
+                "Asse em forno médio a quente, pré-aquecido, por cerca de 30-40 minutos, ou até que as bordas fiquem douradas."
+            ]
+        },
+
+    {
+        "name": "Estrogonofe vegano",
+        "description": "Um delicioso estrogonofe sem ingredientes derivados de animais!",
+        "image": "http://img.itdg.com.br/tdg/images/blog/uploads/2017/05/shutterstock_567654697.jpg",
+        "ingredients": [
+
+            {
+                "unity": "unidade",
+                "number": 12,
+                "name": "tomates"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "cebola ralada"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 1,
+                "name": "páprica doce"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 1,
+                "name": "pimenta branca"
+            },
+
+            {
+                "unity": "colher de sopa",
+                "number": 1,
+                "name": "coloral"
+            },
+
+            {
+                "unity": "colheres de chá",
+                "number": 2,
+                "name": "açúcar"
+            },
+
+            {
+                "unity": "colher de sopa",
+                "number": 1,
+                "name": "ervas finas"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 1,
+                "name": "cardamomo"
+            },
+
+            {
+                "unity": "colheres de sopa",
+                "number": 2,
+                "name": "vinagre de maçã"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "aveia"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "vidro de palmito"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "champignon"
+            },
+
+            {
+                "unity": "ml",
+                "number": 100,
+                "name": "rum"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal"
+            }
+        ],
+
+        "preparation": [
+            "Ferva os 12 tomates e bata no liquidificador para o ketchup e para o molho de tomate.",
+            "Corte a cebola e refogue com azeite.",
+            "MOLHO DE TOMATE",
+            "Coloque no fogo oito tomates batidos.",
+            "Coloque o coloral, as ervas finas, páprica doce e sal a gosto",
+            "Adicione a cebola refogada e misture até engrossar.",
+            "KETCHUP",
+            "Glacear o açúcar com o vinagre de maçã.",
+            "Adicione quatro tomates batidos",
+            "Quando a mistura começar a ferver, adicione cardamomo e pimenta do reino a gosto e misture até engrossar",
+            "LEITE DE AVEIA",
+            "Bata no liquidificador 1 xícara de aveia para 2 xícaras de água sempre como proporção.",
+            "Coe com um coador ou pano fino limpo.",
+            "Asse em forno médio a quente, pré-aquecido, por cerca de 30-40 minutos, ou até que as bordas fiquem douradas.",
+            "ESTROGONOFE",
+            "Refogar o palmito e o champignon e adicionar o rum e pimenta do reino a gosto.",
+            "Adicione uma xícara de molho de tomate, meia xícara de ketchup e uma xícara de leite de aveia."
+        ]
+    }
+
+    
+        
+        
+    ]
+}

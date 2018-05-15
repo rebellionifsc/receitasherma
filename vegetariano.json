@@ -210,7 +210,7 @@
         "Aquecer o molho de tomates em uma frigideira e dispor as almôndegas, deixar cozinhar por 5 minutos e servir com espaguete."
     ]
     },
-
+        
             {
                 "name": "Quibe de Abóbora Recheado na Travessa",
                 "description": "Essa receita de quibe de abóbora recheado na travessa vai te surpreender! Serve 5 pessoas.",
@@ -703,7 +703,7 @@
                                     "Você pode servir com uma massa ou lasanha, conforme preferir."
                                 ]
                                     },
-                                    {
+                                        {
                                             "name": "Risoto de Cenoura",
                                             "description": "Uma receita fácil e simples que fica deliciosa! Você pode substituir a carne por legumes, queijo, ou o que preferir.",
                                             "image": "http://gordelicias.biz/wp-content/uploads/2013/01/risoto-cenoura4.jpg",
@@ -1158,7 +1158,892 @@
                                                 "Corte as cinco espigas, triture no liquidificador e nessa massa acrescente temperos a gosto. ",
                                                 "Esquente o óleo e coloque os bolinhos aos poucos com a colher para fritar."
                                             ]
-                                            }
+                                            },
 
+                                                    {
+                                                        "name": "Torta de queijo com batata, aspargos e vegetais variados",
+                                                        "description": "Além de prática, a torta é saborosa e serve para aqueles dias que você não quer inventar muita moda.",
+                                                        "image": "https://scontent.ffln5-1.fna.fbcdn.net/v/t1.0-9/32312977_105157447029791_961374445765656576_n.jpg?_nc_cat=0&oh=d2b3dcd0ec683e6bd284c07bbe60a8eb&oe=5B52A391",
+                                                        "ingredients": [
+
+                                                            {
+                                                                "unity": "unidade",
+                                                                "number": 3,
+                                                                "name": "ovos"
+                                                            },
+
+                                                            {
+                                                                "unity": "xícaras",
+                                                                "number": 2,
+                                                                "name": "farinha de trigo"
+                                                            },
+
+                            {
+                                                                "unity": "pitada",
+                                                                "number": 1,
+                                                                "name": "sal"
+                            },
+
+                            {
+                                                                "unity": "xícara",
+                                                                "number": 1,
+                                                                "name": "leite"
+                            },
+
+                                                            {
+                                                                "unity": "xícara",
+                                                                "number": 1,
+                                                                "name": "óleo"
+                                                            },
+
+                                                            {
+                                                                "unity": "colher de sopa",
+                                                                "number": 1,
+                                                                "name": "fermento químico"
+                                                            },
+
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "azeitonas pretas"
+                                                            },
+
+                                                            {
+                                                                "unity": "unidade",
+                                                                "number": 1,
+                                                                "name": "cenoura"
+                                                            },
+
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "aspargos picados"
+                                                            },
+
+                                                            {
+                                                                "unity": "unidade",
+                                                                "number": 2,
+                                                                "name": "batatas cozidas"
+                                                            },
+
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "cebola roxa"
+                                                            },
+
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "alho-poró"
+                                                            },
+
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "tomates-cereja"
+                                                            },
+
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "queijo branco"
+                                                            },
+
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "sal, pimenta e ervas"
+                                                            },
+                                                            
+                                                            {
+                                                                "unity": "a gosto",
+                                                                "number": null,
+                                                                "name": "parmesão e orégano"
+                                                            }
+                                                        ],
+
+                                                        "preparation": [
+                                                            "Descasque as batatas e cozinhe, depois corte os demais alimentos",
+                                                            "Junte tudo e tempere ao seu gosto.",
+                                                            "Bata os ingredientes da massa no liquidificador, começando pelos líquidos: ovos, leite e azeite.",
+                                                            "Depois, acrescente a farinha aos poucos.",
+                                                            "Quando ficar homogêneo, coloque o fermento e misture com cuidado.",
+                                                            "Coloque metade da massa numa forma retangular.",
+                                                            "Despeje o recheio já temperado por cima, distribuindo bem.",
+                                                            "Finalize com o resto da massa, polvilhando o parmesão e orégano.",
+                                                            "Deixe assar por uns 40 minutos em forno quente ou até que fique bem dourado."
+                                                        ]
+                                                    },
+
+                                                {
+                                                    "name": "Nhoque de brócolis com queijo",
+                                                    "description": "Uma deliciosa opção para o almoço de domingo com a família.",
+                                                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-10/23/12/asset/buzzfeed-prod-fastlane-03/sub-buzz-27524-1508776975-1.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+                                                    "ingredients": [
+
+                                                        {
+                                                            "unity": "g",
+                                                            "number": 100,
+                                                            "name": "vagem"
+                                                        },
+
+                                                        {
+                                                            "unity": "g",
+                                                            "number": 100,
+                                                            "name": "brócolis"
+                                                        },
+
+                                                        {
+                                                            "unity": "g",
+                                                            "number": 500,
+                                                            "name": "nhoque"
+                                                        },
+
+                                                        {
+                                                            "unity":"g",
+                                                            "number": 100,
+                                                            "name": "mussarela ralada"
+                                                        },
+
+                                                        {
+                                                            "unity": "g",
+                                                            "number": 100,
+                                                            "name": "parmesão ralado"
+                                                        },
+
+                                                        {
+                                                            "unity": "ml",
+                                                            "number": 50,
+                                                            "name": "creme de leite"
+                                                        },
+
+                                                        {
+                                                            "unity": "colher de chá",
+                                                            "number": 1,
+                                                            "name": "pimenta"
+                                                        }
+                                                    ],
+
+                                                    "preparation": [
+                                                        "Preaqueça o forno a 180°C.",
+                                                        "Cozinhe a vagem e o brócolis por 2 a 3 minutos em água fervente. Retite e reserve.",
+                                                        "Na mesma água fervendo, cozinhe o nhoque por 2 minutos (ou até que ele flutue na superfície da água). Deixe escorrer.",
+                                                        "Na mesma panela misture o nhoque, a vagem, o brócolis, a mussarela, o parmesão, o creme de leite e a pimenta.",
+                                                        "Coloque em uma forma própria para forno e asse por 5 minutos a 180°C ou até o queijo fazer bolhas."
+                                                    ]
+                                                },
+
+                                                {
+                                                    "name": "Macarrão com pesto, tomate seco e aspargo",
+                                                    "description": "Uma deliciosa receita para variar no acompanhamento daquele macarrão de sábado",
+                                                    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-10/23/13/asset/buzzfeed-prod-fastlane-01/sub-buzz-25094-1508778121-1.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+                                                    "ingredients": [
+
+                                                        {
+                                                            "unity": "unidade",
+                                                            "number": 15,
+                                                            "name": "aspargos"                                                    
+                                                        },
+
+                                                        {
+                                                            "unity": "colher de sopa",
+                                                            "number": 1,
+                                                            "name": "azeite"
+                                                        },
+
+                                                        {
+                                                            "unity": "a gosto",
+                                                            "number": null,
+                                                            "name": "sal"
+                                                        },
+
+                                                        {
+                                                            "unity": "a gosto",
+                                                            "number": null,
+                                                            "name": "pimenta"
+                                                        },
+
+                                                        {
+                                                            "unity": "g",
+                                                            "number": 226,
+                                                            "name": "macarrão tipo penne"
+                                                        },
+
+                                                        {
+                                                            "unity": "xícaras",
+                                                            "number": 4,
+                                                            "name": "manjericão fresco"
+                                                        },
+
+                                                        {
+                                                            "unity": "xícara",
+                                                            "number": 0.33,
+                                                            "name": "castanhas"
+                                                        },
+
+                                                        {
+                                                            "unity": "unidade",
+                                                            "number": 2,
+                                                            "name": "dentes de alho"
+                                                        },
+
+                                                        {
+                                                            "unity": "xícara",
+                                                            "number": 0.5,
+                                                            "name": "azeite"
+                                                        },
+
+                                                        {
+                                                            "unity": "xícara",
+                                                            "number": 0.5,
+                                                            "name": "queijo parmesão"
+                                                        },
+
+                                                        {
+                                                            "unity": "colher de chá",
+                                                            "number": 1,
+                                                            "name": "sal"
+                                                        },
+
+                                                        {
+                                                            "unity": "xícara",
+                                                            "number": 0.5,
+                                                            "name": "tomate seco"
+                                                        }
+                                                    ],
+
+                                                    "preparation": [
+                                                        "Preaqueça o forno a 220°C.",
+                                                        "Em uma panela grande, ferva 1 litro de água.",
+                                                        "Remova as partes de baixo dos aspargos e descarte. Corte o restante em 4 pedaços e coloque-os em uma assadeira. Regue com azeite, sal, pimenta e misture. Leve ao forno por 10 minutos.",
+                                                        "Cozinhe o macarrão por 10-12 minutos, ou até ficar al dente. Escorra.",
+                                                        "Com um liquidificador, bata o manjericão, as castanhas, o alho e o azeite até virar uma pasta. Adicione o parmesão e o sal na mistura, e bata mais um pouco.",
+                                                        "Em uma tigela grande, adicione a massa cozida e escorrida, os tomates secos, os aspargos assados e 3 colheres de sopa do molho pesto. Misture tudo e sirva com parmesão ralado em cima."
+                                                    ]
+                                                },
+
+                                            {
+                                                "name": "Abobrinha recheada",
+        "description": "Uma deliciosa opção para um jantarzinho no meio da semana",
+        "image": "https://img.buzzfeed.com/buzzfeed-static/static/2018-03/12/13/asset/buzzfeed-prod-fastlane-02/sub-buzz-26958-1520874320-18.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+        "ingredients": [
+
+            {
+                "unity": "unidade",
+                "number": 3,
+                "name": "abobrinhas médias"
+            },
+
+            {
+                "unity": "g",
+                "number": 300,
+                "name": "queijo ricota"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "queijo mussarela"
+            },
+
+            {
+                "unity": "colheres de sopa",
+                "number": 2,
+                "name": "cebola ralada"
+            },
+
+            {
+                "unity": "g",
+                "number": 200,
+                "name": "tomate seco"
+            },
+
+            {
+                "unity": "colheres de sopa",
+                "number": 2,
+                "name": "óleo do tomate seco"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 3,
+                "name": "tomates picados"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 1,
+                "name": "sal"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 0.5,
+                "name": "pimenta"
+            },
+
+            {
+                "unity": null,
+                "number": null,
+                "name": "azeite de oliva"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "orégano"
+            }
+        ],
+
+        "preparation": [
+            "Preaqueça o forno a 230ºC.",
+            "Corte as abobrinhas no meio e, com a ajuda de uma colher, remova as sementes da abobrinha.",
+            "Coloque as abobrinhas em uma tigela e leve ao micro-ondas por 5 minutos.",
+            "Coloque as abobrinhas em uma travessa e regue com azeite e sal. Reserve.",
+            " Em uma tigela, adicione a ricota, a muçarela, o tomate picado, a cebola ralada, o tomate seco picado, o óleo do tomate seco, o sal, a pimenta e misture.",
+            "Recheie as abobrinhas com a mistura de ricota. Espalhe os cubinhos de tomate que restaram pelas abobrinhas e salpique orégano a gosto.",
+            "Leve ao forno por 15-20 minutos ou até o queijo derreter."
+        ]
+    },
+
+{
+    "name": "Fusilli vegetariano com alho",
+    "description": "Uma receita com macarrão parafuso e legumes deliciosa!",
+    "image": "https://www.pingodoce.pt/wp-content/uploads/2017/12/salada-de-fusilli-e-legumes.jpg",
+    "ingredients": [
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "óleo"
+        },
+
+        {
+            "unity": "xícaras",
+            "number": 2,
+            "name": "cogumelos fatiadas"
+        },
+
+        {
+            "unity": "xícaras",
+            "number": 2,
+            "name": "brócolis cortado em pedaços pequenos"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 4,
+            "name": "dentes de alho picados"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 2,
+            "name": "pimentões fatiados"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "orégano"
+        },
+
+        {
+            "unity": "colheres de chá",
+            "number": 2,
+            "name": "sal"
+        },
+
+        {
+            "unity": "colheres de chá",
+            "number": 2,
+            "name": "pimenta"
+        },
+
+        {
+            "unity": "g",
+            "number": 250,
+            "name": "macarrão fusilli cozido"
+        }
+    ],
+
+    "preparation": [
+        "Aqueça o óleo em uma panela grande em fogo alto.",
+        "Cozinhe os cogumelos, brócolis, alho, pimentas, orégano, sal e pimenta até amolecer os vegetais.",
+        "Coloque o macarrão e misture bem."
+    ]
+},
+
+{
+    "name": "Batatas assadas com parmesão",
+    "description": "Uma ótima opção para a reunião de amigos no sábado a noite",
+    "image": "https://img.buzzfeed.com/buzzfeed-static/static/2017-08/24/15/asset/buzzfeed-prod-fastlane-02/sub-buzz-20969-1503603988-1.jpg?downsize=715:*&output-format=auto&output-quality=auto",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 3,
+            "name": "batatas cortadas em pedaços"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "manteiga"
+        },
+
+        {
+            "unity": "g",
+            "number": 100,
+            "name": "queijo parmesão ralado"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "alho picado"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "alecrim"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "pimenta"
+        }
+    ],
+
+    "preparation": [
+        "Preaqueça o forno a 180° C.",
+        "Coloque as batatas em uma tigela grande, adicione a manteiga e mexa.",
+        "Adicione o parmesão, o alho, o alecrim, o sal e a pimenta. Misture bem.",
+        "Espalhe as batatas em uma assadeira. Leve ao forno por 1 hora, virando a cada 15 minutos."
+    ]
+},
+
+{
+    "name": "Salada de abóbora com arroz-cateto integral",
+    "description": "Não sabe o que preparar e tem aproximadamente 45 minutos para aprontar a refeição? Essa receita de salada de abóbora é uma ótima opção",
+    "image": "https://abrilclaudia.files.wordpress.com/2017/03/salada-de-abc3b3bora.jpg?quality=85&strip=info",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 0.25,
+            "name": " abóbora cabotia com casca, sem sementes, cortada em gomos"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 1.25,
+            "name": "azeite de oliva"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "mostarda"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "suco de limão-cravo"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "arroz cateto integral"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "feijão fradinho ou verde cozido"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 0.5,
+            "name": "maçã em fatias"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 0.25,
+            "name": "cebola em fatias"
+        },
+
+        {
+            "unity": "maços",
+            "number": 3,
+            "name": "folhas verdes rasgadas"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        }
+    ],
+
+    "preparation": [
+        "Coloque a abóbora em uma assadeira.",
+        "Cubra com papel alumínio e ao forno, a 180º C, por 40 minutos ou até que fique macia.",
+        "Corte em tiras, tempere com sal e regue com azeite. Reserve.",
+        "Em uma tigela, misture a mostarda, o suco do limão e o azeite restante. Reserve.",
+        "Em uma travessa, misture o arroz com o feijão, a maçã e a cebola.",
+        "Incorpore as folhas e tempere tudo com o molho de mostarda.",
+        "Na hora de servir, grelhe a abóbora em uma frigideira bem quente e sirva com a salada"
+    ]
+},
+
+{
+    "name": "Salada de penne",
+    "description": "Pensando em praticidade na hora do almoço, uma salada de penne não seria nada mal. Em 30 minutos uma salada bem cremosa e saborosa pode ser preparada para a sua refeição.",
+    "image": "https://abrilmdemulher.files.wordpress.com/2017/02/saladadepenne1.jpg?quality=90&strip=info&w=654&h=436&crop=1",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "caixa de macarrão penne"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 0.5,
+            "name": "abacate"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "azeite de oliva"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.25,
+            "name": "água"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 1,
+            "name": "tomate cereja"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "manjericão"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        }
+    ],
+
+    "preparation": [
+        "Cozinhe o penne e escorra.",
+        "Bata o abacate com a água, o azeite, o suco de limão e o sal",
+        "Adicione a mistura de abacate no penne, e junte os tomates e as folhas de manjericão.",
+        "Sirva em seguida."
+    ]
+},
+
+{
+    "name": "Bolinho vegetariano",
+    "description": "Nem sempre a hora do almoço pede uma refeição clássica e ela pode ser substituída por petiscos como esses deliciosos bolinhos vegetarianos – que levam cenoura, alho-poró e abobrinha.",
+    "image": "https://abrilclaudia.files.wordpress.com/2017/03/receita-de-bolinho-vegetariano1.jpg?quality=85&strip=info",
+    "ingredients": [
+
+        {
+            "unity": "colheres de sopa",
+            "number": 6,
+            "name": "grão de bico cozido, escorrido e processado"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "óleo de coco"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 5,
+            "name": "cenoura ralada"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 0.5,
+            "name": "cebola roxa"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 0.5,
+            "name": "dente de alho amassado"
+        },
+
+        {
+            "unity": "talo",
+            "number": 0.33,
+            "name": "alho-poró batido"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "ovo"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 7,
+            "name": "farinha de chufa"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 3,
+            "name": "abobrinha ralada e escorrida"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "farinha de rosca"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "pimenta do reino moída"
+        }
+    ],
+
+    "preparation": [
+        "m uma tigela, misture o grão-de-bico e o óleo de coco.",
+        "Junte a cenoura, a cebola, o alho, o alho-poró, sal rosa e pimenta-do-reino.",
+        "Adicione o ovo e a farinha de chufa, misturando para incorporar. Acrescente a abobrinha.",
+        "Forme pequenas bolas com essa mistura. Passe uma a uma na farinha de rosca sem glúten.",
+        "Disponha-as em uma assadeira antiaderente e leve ao forno preaquecido a 180ºC por até 20 minutos – o bolinho deverá ficar crocante.",
+        "Sirva com geleia de pimenta"
+    ]
+},
+
+{
+    "name": "Risoto de tomate",
+    "description": "Nada em mente para o almoço? Não se preocupe. Essa receita de risoto de tomate pode ser uma salvação.",
+    "image": "http://comidadodia.ne10.uol.com.br/wp-content/uploads/2014/03/risoto-de-tomates-2.jpg",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 3,
+            "name": "tomates maduros"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "cebola picadinha"
+        },
+
+        {
+            "unity": "g",
+            "number": 100,
+            "name": "manteiga sem sal gelada"
+        },
+
+        {
+            "unity": "xícaras",
+            "number": 2,
+            "name": "arroz arbório"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 1,
+            "name": "vinho branco seco"
+        },
+
+        {
+            "unity": "litro",
+            "number": 1.5,
+            "name": "caldo de galinha fervente"
+        }
+    ],
+
+    "preparation": [
+        "No liquidificador, bata o tomate, coe e reserve.",
+        "Em outra panela, em fogo médio, refogue a cebola em 1 colher (sopa) de manteiga até ficar transparente.",
+        "Acrescente o arroz e frite por três minutos.",
+        "Adicione o vinho e mexa até evaporar. Aumente a chama.",
+        "Despeje o caldo aos poucos, conforme for secando, mexendo sempre para não grudar no fundo. O risoto deve ficar cremoso, com os grãos cozidos, mas al dente.",
+        "Entre uma concha e outra, acrescente o tomate batido reservado e o extrato de tomate. Desligue o fogo.",
+        "Junte a manteiga restante e o parmesão. Misture delicadamente para incorporar.",
+        "Tempere com sal e pimenta. Finalize com a minirrúcula e mais parmesão."
+    ]
+},
+
+{
+    "name": "Pizza de omelete com espinafre",
+    "description": "Para inovar a receita da velha omelete, você pode transformá-la em uma pizza de omelete com espinafre.",
+    "image": "https://abrilclaudia.files.wordpress.com/2017/03/pizza-omelete-e1487628699298.jpg?quality=85&strip=info",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 2,
+            "name": "ovos"
+        },
+
+        {
+            "unity": "colher de chá",
+            "number": 1,
+            "name": "manteiga"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 1,
+            "name": "espinafre previamente salteado ou cozido no vapor"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 0.25,
+            "name": "cebola pequena cortada em rodelas finas"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "azeite de oliva"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "orégano"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null, 
+            "name": "manjericão"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "tomate cereja cortados em rodelas"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "queijo parmesão ralado"
+        }
+    ],
+
+    "preparation": [
+        "Bata os ovos com um garfo, adicione o sal e reserve. Em uma frigideira, coloque o azeite e um pouco de manteiga. Despeje os ovos batidos.",
+        "Adicione os verdes, os tomates, cebola e, por último, o queijo. Tampe e deixe no fogo baixo por 3 minutos.",
+        "Finalize com mais orégano e manjericão."
+    ]
+},
+
+{
+    "name": "Talharim de pupunha",
+    "description": "Uma excelente opção de prato para quem precisa de algo que renda muitas porções e que seja bem gostoso de ser saboreado.",
+    "image": "https://abrilclaudia.files.wordpress.com/2017/03/talharim-de-pupunha_0.jpg?quality=85&strip=info",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 3,
+            "name": "palmito pupunha"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 1,
+            "name": "leite"
+        },
+
+        {
+            "unity": "xícaras",
+            "number": 2,
+            "name": "creme de leite fresco"
+        },
+
+        {
+            "unity": "g",
+            "number": 250,
+            "name": "queijo parmesão em pedaços"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "azeite de oliva"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "salsinha"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "pimenta do reino"
+        }
+    ],
+
+    "preparation": [
+        "Com um mandolim, corte a pupunha em fatias finas.",
+        "Cozinhe em uma panela com água, em fogo médio, por três minutos. Escorra e reserve.",
+        "Em outra panela, leve ao fogo médio o leite e o creme de leite, mexendo até levantar fervura.",
+        "Junte o parmesão e misture bem. Transfira para o liquidificador e bata. Reserve.",
+        "Em uma frigideira, em fogo médio, refogue a pupunha no azeite rapidamente.",
+        "Junte o creme de parmesão e tempere com sal e pimenta.",
+        "Finalize com um fio de azeite de trufa e salsinha e sirva."
     ]
 }
+
+    ]
+}   
