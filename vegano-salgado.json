@@ -194,7 +194,169 @@
             "Refogar o palmito e o champignon e adicionar o rum e pimenta do reino a gosto.",
             "Adicione uma xícara de molho de tomate, meia xícara de ketchup e uma xícara de leite de aveia."
         ]
-    }
+    },
+        
+        {
+            "name": "Creme de shitake",
+            "description": "Uma deliciosa opção para as noites frias de agosto",
+            "image": "https://cdn.temperando.com/wp-content/uploads/2016/06/CREME-DE-COGUMELOS-BLOG-1-de-4-700x467.jpg",
+            "ingredients": [
+                
+                {
+                    "unity": "xícaras",
+                    "number": 2,
+                    "name": "shitakes secos em fatias, já hidratados"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "batata grande picada"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "pão adormecido"
+                },
+                
+                {
+                    "unity": "xícaras",
+                    "number": 5,
+                    "name": "água"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "cebola picada"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 2,
+                    "name": "dentes de alho picados"
+                },
+                
+                {
+                    "unity": "colheres de sopa",
+                    "number": 3,
+                    "name": "molho shoyu"
+                },
+                
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "misso claro"
+                },
+                
+                {
+                    "unity": "colher de chá",
+                    "number": 1,
+                    "name": "gergelim tostado"
+                },
+                
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "sal"
+                }
+              ],
+            
+            "preparation": [
+                "Doure a cebola e o alho em um fio de azeite.",
+                "Acrescente a água, sal e a batata picada miúda e deixe cozinhar até que fiquem macias.",
+                "Adicione os cogumelos hidratados e escorridos, o shoyu, o óleo de gergelim e o pão picado e deixe cozinhar por mais alguns minutos.",
+                "Transfira para um processador ou liquidificador e bata bem.",
+                "Por fim, dissolva o misso em uma pequena quantidade de água quente e misture à sopa.",
+                "Regue com um fio de azeite e pedacinhos de shitake hidratado."
+                ]
+        },
+        
+        {
+            "name": "Macarrão com molho de alho-poró",
+            "description": "Ótima opção para um jantar romântico",
+            "image": "http://digamaria.com/wp/wp-content/uploads/2012/02/Massa-com-alho-poro-041.jpg",
+            "ingredients": [
+                
+                {
+                    "unity": "pacote",
+                    "number": 0.5,
+                    "name": "macarrão sem ovos"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "alho-poró"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "cebola média ralada"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "dente de alho ralado"
+                },
+                
+                {
+                    "unity": "unidade",
+                    "number": 6,
+                    "name": "castanhas-do-pará"
+                },
+                
+                {
+                    "unity": "xícara",
+                    "number": 1.5,
+                    "name": "água"
+                },
+                
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "farinha de trigo"
+                },
+                
+                {
+                    "unity": "pitada",
+                    "number": 1,
+                    "name": "pimenta-do-reino"
+                },
+                
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "sal"
+                },
+                
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "azeite de oliva"
+                },
+                
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "castanhas-do-pará moídas para cobrir"
+                }
+                ],
+            
+            "preparation": [
+                "Pique em rodelas o talo do alho poró e fatie finamente as folhas.",
+                "Refogue em 1 fio de azeite, junto com a cebola e o alho, até que fiquem transparentes.",
+                "Bata as castanhas do pará com 1 xícara de água no liquidificador, e despeje na panela.",
+                "Deixe cozinhar rapidamente, acrescentando o sal e a pimenta do reino.",
+                "Dilua a farinha de trigo em 1/2 xícara de água e despeje na panela, misturando até engrossar.",
+                "Distribua sobre o macarrão cozido e escorrido.",
+                "Cubra com castanhas-do-pará raladas e um fio de azeite."
+                ]
+        }
+        
 
     
         
