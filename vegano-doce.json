@@ -660,7 +660,131 @@
                 "Asse em forno médio, pre-aquecido até que dourem por cima.",
                 "Se sobrar muito, corte em fatias e congele. Aí, basta aquecer novamente no forno para ter sempre um pão fresquinho à mão."
             ]
+        },
+
+        {
+            "name": "Cheesecake vegana",
+            "description": "Uma receita deliciosa para dividir com a família!",
+            "image": "https://truffle-assets.imgix.net/84cnzp0itw1q_3Mjkq4sVjaiqEiyMoKIOek_especial-de-natal_s1e12_cheesecake-vegana_landscapeThumbnail_pt.jpeg",
+            "ingredients": [
+        
+                {
+                    "unity": "xícara",
+                    "number": 1.5,
+                    "name": "amêndoas cruas"
+                },
+        
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "coco ralado seco e sem açúcar"
+                },
+        
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "óleo de coco"
+                },
+        
+                {
+                    "unity": "unidade",
+                    "number": 6,
+                    "name": "ameixas ou tâmaras sem caroço"
+                },
+        
+                {
+                    "unity": "xícaras",
+                    "number": 2,
+                    "name": "castanha de caju crua"
+                },
+        
+                {
+                    "unity": "xícara",
+                    "number": 1,
+                    "name": "leite de coco (ou amêndoas, aveia, soja, etc)"
+                },
+        
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "açúcar demerara ou cristal"
+                },
+        
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "suco de limão"
+                },
+        
+                {
+                    "unity": "colher de chá",
+                    "number": 1,
+                    "name": "essência de baunilha"
+                },
+        
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "agar agar em pó branco"
+                },
+        
+                {
+                    "unity": "xícara",
+                    "number": 1,
+                    "name": "água"
+                },
+        
+                {
+                    "unity": "g",
+                    "number": 200,
+                    "name": "água"
+                },
+        
+                {
+                    "unity": "g",
+                    "number": 200,
+                    "name": "morangos picados"
+                },
+        
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "açúcar demerara ou cristal"
+                },
+        
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "suco de limão"
+                },
+        
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "morangos e folhinhas de hortelã para decorar"
+                }
+            ],
+        
+            "preparation": [
+        
+                "Colocar as castanhas de caju cruas de molho por pelo menos 8 horas.",
+                "Preaquecer o forno a 200ºC.",
+                "Em um processador, colocar as amêndoas cruas, o coco ralado, o óleo de coco e as ameixas. Bater tudo até obter uma mistura uniforme.",
+                "Espalhar esta massa do processador em uma assadeira antiaderente, de fundo removível, com medidas entre 20cm e 26cm (para não ficar muito grossa ou fina), e untada com óleo. Modelar pequenas bordinhas.",
+                "Levar para assar por cerca de 10 minutos ou até as bordas estarem levemente douradas. Reservar.",
+                "Escorrer e lavar as castanhas de caju.",
+                "Bater as castanhas hidratadas em um liquidificador, juntamente com o leite de coco, com o açúcar, com o suco de limão e com a essência de baunilha até virar um creme uniforme. Reservar.",
+                "Em uma panela em fogo médio, ferva 1 xícara de água, coloque o ágar ágar em pó e misture por 1 minuto. Desligar.",
+                "Adicionar o creme de castanha do liquidificador e misturar até ficar homogêneo.",
+                "Colocar este creme sobre a massa assada e esperar esfriar por pelo menos uma hora e meia antes de por na geladeira.",
+                "Colocar os morangos, o limão e açúcar em uma panela antiaderente, e cozinhar em fogo médio até os morangos ficarem bem derretidos. Mexer sempre.",
+                "Espalhar esta geleia sobre a torta, cobrir com plástico PVC e levar à geladeira por pelo menos 6 horas antes de servir.",
+                "Decorar com morangos e folhinhas de hortelã.",
+                "Servir gelado."
+            ]
         }
+
+        
 
         
     ]

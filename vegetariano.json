@@ -2043,6 +2043,348 @@
         "Junte o creme de parmesão e tempere com sal e pimenta.",
         "Finalize com um fio de azeite de trufa e salsinha e sirva."
     ]
+},
+
+{
+    "name": "Batata recheada com 3 queijos",
+    "description": "Essa batata recheada com 3 queijos vai te deixar com água na boca!",
+    "image": "https://truffle-assets.imgix.net/2723ba7f-batata-recheada-com-3-queijos-l-thumbjpg",
+    "ingredients": [
+
+        {
+            "unity": "g",
+            "number": 100,
+            "name": "queijo gorgonzola picado"
+        },
+
+        {
+            "unity": "g",
+            "number": 100,
+            "name": "queijo mussarela ralado"
+        },
+
+        {
+            "unity": "g",
+            "number": 300,
+            "name": "requeijão"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 5,
+            "name": "batatas médias pré cozidas"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "pimenta do reino"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "azeite de oliva"
+        }
+    ],
+
+    "preparation": [
+        
+        "Em um recipiente, misture o queijo gorgonzola, o queijo muçarela e o requeijão. Reserve.",
+        "Cortar as pontinhas batatas e então cortar na metade, cortar o miolo e retirar com auxílio de uma colher formando copinhos de batata. Repetir o processo com mais duas batatas.",
+        "Dispor em uma assadeira e levar ao forno preaquecido a 20 graus por aproximadamente, 30 minutos ou até o queijo derreter.",
+        "Cortar as outras duas batatas em palitos e dispor em uma assadeira. Regar as batatas com azeite, temperar com sal e pimenta e levar ao forno preaquecido a 180 graus por, aproximadamente, 30 minutos."
+    ]
+},
+
+{
+    "name": "Falafel frito",
+    "description": "Aprenda a fazer Falafel, esse bolinho frito de grão de bico bem temperado e saboroso!",
+    "image": "https://truffle-assets.imgix.net/84cnzp0itw1q_6m8sNbvh4suYAKK2eISUG0_falafel-frito_squareThumbnail_pt.jpeg",
+    "ingredients": [
+
+        {
+            "unity": "g",
+            "number": 500,
+            "name": "grão de bico cozido"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 3,
+            "name": "azeite de oliva"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 3,
+            "name": "dentes de alho picados"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 0.5,
+            "name": "cebola picada"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 4,
+            "name": "salsinha"
+        },
+
+        {
+            "unity": "colher de chá",
+            "number": 1,
+            "name": "hortelã"
+        },
+
+        {
+            "unity": "colher de chá",
+            "number": 0.5,
+            "name": "cominho em pó"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 3,
+            "name": "farinha de trigo"
+        },
+
+        {
+            "unity": "colher de chá",
+            "number": 1,
+            "name": "fermento químico"
+        }
+    ],
+
+    "preparation": [
+
+        "No processador, triturar o grão de bico até obter uma pasta, adicionar o azeite e processar por 2 minutos.",
+        "Juntar o alho, a cebola, a salsinha, a hortelã, o cominho, o sal e processar por mais 2 minutos.",
+        "Dispor a mistura em uma tigela e refrigerar por 20 minutos.",
+        "Juntar a farinha e o fermento, misturar bem e formatar o falafel.",
+        "Fritar em óleo quente até ficar douradinho e escorrer em papel absorvente."
+    ]
+},
+
+{
+    "name": "Macarrão com molho de limão e vodca",
+    "description": "Esse molho de vodca e limão dá um sabor especial para o macarrão.",
+    "image": "https://truffle-assets.imgix.net/84cnzp0itw1q_JSxM6lgJgqKEOkO2ikGSQ_macarrao-com-molho-de-limao-e-vodca_landscapeThumbnail_pt.jpeg",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "limão siciliano"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "azeite"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 2,
+            "name": "dentes de alho amassados"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "pimenta vermelha picada"
+        },
+
+        {
+            "unity": "colheres de chá",
+            "number": 2,
+            "name": "tomilho fresco"
+        },
+
+        {
+            "unity": "g",
+            "number": 200,
+            "name": "cream cheese"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "vodca"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "g",
+            "number": 250,
+            "name": "espaguete cozido"
+        }
+    ],
+
+    "preparation": [
+
+        "Aquecer o azeite em uma panela e refogar as raspas de limão, o alho, a pimenta e o tomilho.",
+        "Juntar o cream cheese (esperar que derreta) acrescentar a vodka, o suco do limão e o sal.",
+        "Misturar ao macarrão já cozido e decorar com um ramo de tomilho."
+    ]
+},
+
+{
+    "name": "Tempurá de legumes",
+    "description": "Aprenda a preparar tempurá de legumes, esse clássico da culinária japonesa super crocante e gostoso.",
+    "image": "https://www.greenme.com.br/images/receitas-saudaveis/receita-tempura-legumes.jpg",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "pimentão vermelho"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "pimentão amarelo"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "cenoura"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "cebola roxa"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "pepino japonês"
+        },
+
+        {
+            "unity": "g",
+            "number": 250,
+            "name": "farinha de trigo"
+        },
+
+        {
+            "unity": "g",
+            "number": 250,
+            "name": "amido de milho"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "ml",
+            "number": 500,
+            "name": "água mineral com gás"
+        }
+    ],
+
+    "preparation": [
+
+        "Cortar os legumes em palitos finos e secar com toalhas de papel.",
+        "Misturar a farinha, o amido, o sal e a água. Dispor a mistura nos legumes, misturar, fritar em óleo quente e escorrer bem."
+    ]
+},
+
+{
+    "name": "Misto quente napolitano",
+    "description": "Prepare um café da manhã super completo e delicioso com essa receita de misto quente napolitano.",
+    "image": "https://truffle-assets.imgix.net/84cnzp0itw1q_4VlZwtS1aESMKUkWgCKC66_misto-quente-napolitano_landscapeThumbnail_pt.jpeg",
+    "ingredients": [
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "azeite de oliva"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 2,
+            "name": "tomates maduros em cubos e sem semente"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 2,
+            "name": "alho picado"
+        },
+
+        {
+            "unity": "colheres de sopa",
+            "number": 2,
+            "name": "sopa de passata de tomate pelado picado pelado"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "sal"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 4,
+            "name": "fatias de pão"
+        },
+
+        {
+            "unity": "g",
+            "number": 150,
+            "name": "mussarela de búfala"
+        },
+
+        {
+            "unity": "a gosto",
+            "number": null,
+            "name": "manjericão fresco"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "manteiga ponto pomada"
+        }
+    ],
+
+    "preparation": [
+
+        "Aquecer uma frigideira, adicionar o azeite, o tomate, o alho e refogar",
+        "Juntar a passata, temperar com sal e pimenta e deixar cozinhar por 5 minutos",
+        "Dispor o molho sobre as fatias de pão, adicionar fatias de queijo e folhas de manjericão em uma delas e cobrir com a outra. Repetir o processo nas outras duas fatias.",
+        "Passar manteiga na frigideira, dispor o pão, pincelar com manteiga o outro lado e dourar bem ambos os lados. Caso necessário, levar ao forno preaquecido a 200 graus para derreter mais o queijo."
+    ]
 }
 
     ]

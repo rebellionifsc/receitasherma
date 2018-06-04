@@ -651,7 +651,142 @@
         "Não pode mexer, não pode abrir pra olhar.",
         " Após 24 horas, pode consumir. Guardar na geladeira."
     ]
+},
+
+{
+    "name": "Vitamina rosa detox",
+    "description": "É uma opção para uma refeição pós treino ou substituir o jantar naquele dia mais corrido",
+    "image": "http://cozinhafit.com.br/wp-content/uploads/2018/02/IMG_20171020_084105_914.jpg",
+    "ingredients": [
+
+        {
+            "unity": "unidade",
+            "number": 5,
+            "name": "morangos"
+        },
+
+        {
+            "unity": "punhado",
+            "number": 1,
+            "name": "amoras congeladas (opcional)"
+        },
+
+        {
+            "unity": "colheres de sobremesa",
+            "number": 2,
+            "name": "whey de baunilha ou uma banana pequena"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "beterraba crua e descascada"
+        }
+    ],
+
+    "preparation": [
+        "Bater tudo no liquidificador com uma xícara de água (ou mais, se necessário) e algumas pedrinhas de gelo!"
+    ]
+},
+
+{
+    "name": "Brownie lowcarb com calda de morango",
+    "description": "Essa receita é ótima para quem sente muita vontade de doce e não quer sair da dieta",
+    "image": "http://cozinhafit.com.br/wp-content/uploads/2018/04/1504-2018-125939534866002720-768x1024.jpeg",
+    "ingredients": [
+
+        {
+            "unity": "xícara",
+            "number": 1.5,
+            "name": "batata doce cozida, firme e sem casca"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "farinha de amêndoas"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "óleo de coco"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "nozes quebradas"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "cacau"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 0.5,
+            "name": "adoçante culinário"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 2,
+            "name": "ovos médios"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "extrato de baunilha"
+        },
+
+        {
+            "unity": "colher de chá",
+            "number": 1,
+            "name": "bicarbonato de cálcio"
+        },
+
+        {
+            "unity": "pitada",
+            "number": 1,
+            "name": "sal"
+        },
+
+        {
+            "unity": "unidade",
+            "number": 1,
+            "name": "maracujá"
+        },
+
+        {
+            "unity": "xícara",
+            "number": 1,
+            "name": "morangos"
+        },
+
+        {
+            "unity": "colher de sopa",
+            "number": 1,
+            "name": "adoçante culinário"
+        }
+    ],
+
+    "preparation": [
+        "Em um processador, coloque os ovos, o óleo de coco, a baunilha e a meia xícara de adoçante e bata.",
+        "Em seguida adicione a batata doce, a farinha de amêndoas, cacau e a pitada de sal.",
+        "Se achar que a massa está muito grossa (muito mesmo, porque essa massa deve ser pesada mas não impossível de bater) coloque mais um ovo.",
+        "Ao final adicione o bicarbonato.",
+        "Transfira para um recipiente que possa ir ao forno, untado com óleo de coco ou forrado com papel manteiga.",
+        "Coloque as nozes quebradas e leve para assar por mais ou menos 30 minutos em forno pré-aquecido a 180 graus.",
+        "Enquanto isso, faça a calda:",
+        "Coloque em uma panelinha o suco do maracujá (sem as sementes), os morangos e o adoçante.",
+        "Vá mexendo em fogo baixo até obter a consistência de uma geléia."
+    ]
 }
+
     
 
         ]

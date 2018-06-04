@@ -195,168 +195,391 @@
             "Adicione uma xícara de molho de tomate, meia xícara de ketchup e uma xícara de leite de aveia."
         ]
     },
-        
-        {
-            "name": "Creme de shitake",
-            "description": "Uma deliciosa opção para as noites frias de agosto",
-            "image": "https://cdn.temperando.com/wp-content/uploads/2016/06/CREME-DE-COGUMELOS-BLOG-1-de-4-700x467.jpg",
-            "ingredients": [
-                
-                {
-                    "unity": "xícaras",
-                    "number": 2,
-                    "name": "shitakes secos em fatias, já hidratados"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 1,
-                    "name": "batata grande picada"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 1,
-                    "name": "pão adormecido"
-                },
-                
-                {
-                    "unity": "xícaras",
-                    "number": 5,
-                    "name": "água"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 1,
-                    "name": "cebola picada"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 2,
-                    "name": "dentes de alho picados"
-                },
-                
-                {
-                    "unity": "colheres de sopa",
-                    "number": 3,
-                    "name": "molho shoyu"
-                },
-                
-                {
-                    "unity": "colher de sopa",
-                    "number": 1,
-                    "name": "misso claro"
-                },
-                
-                {
-                    "unity": "colher de chá",
-                    "number": 1,
-                    "name": "gergelim tostado"
-                },
-                
-                {
-                    "unity": "a gosto",
-                    "number": null,
-                    "name": "sal"
-                }
-              ],
+
+    {
+        "name": "Empadão de palmito",
+        "description": "Essa massa fica muito gostosa, com aquela textura levemente quebradiça e é fácil de preparar.",
+        "image": "https://t2.rg.ltmcdn.com/pt/images/6/6/4/img_empadao_de_palmito_3466_600.jpg",
+        "ingredients": [
+
+            {
+                "unity": "xícara",
+                "number": 0.5,
+                "name": "cebola picada"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 2,
+                "name": "dentes de alho picados"
+            },
+
+            {
+                "unity": "xícaras",
+                "number": 2,
+                "name": "palmito picado"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "alho-poró fatiado"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.25,
+                "name": "azeitonas picadas"
+            },
+
+            {
+                "unity": "colher de sopa",
+                "number": 0.5,
+                "name": "orégano desidratado"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.5,
+                "name": "extrato de tomate"
+            },
+
+            {
+                "unity": "colheres de sopa",
+                "number": 3,
+                "name": "amido de milho diluídas em em 0.5 xícara de água"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal e pimenta"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "salsinha e cebolinha"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1.5,
+                "name": "farinha de trigo branca"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "farinha de aveia"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 0.5,
+                "name": "sal"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 0.25,
+                "name": "açafrão em pó"
+            },
+
+            {
+                "unity": "colher de sopa",
+                "number": 0.5,
+                "name": "orégano desidratado"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.5,
+                "name": "azeite de oliva ou óleo vegetal"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.25,
+                "name": "água gelada"
+            }
+        ],
+
+        "preparation": [
+            "RECHEIO",
+            "Em uma panela em fogo médio, coloque um fio de azeite e refogue a cebola picada e o alho picado até ficarem levemente dourados.",
+            "Adicione o palmito picado, o alho poró fatiado, tempere com sal a gosto e refogue por alguns minutos.",
+            "Acrescente as azeitonas picadas, o orégano desidratado e misture.",
+            "Adicione o extrato de tomate, o amido de milho diluído na água ou leite vegetal, misture e deixe engrossar.",
+            "Acrescente salsinha e cebolinha picadas e tempere com pimenta a gosto. Reserve.",
+            "MASSA",
+            "Em uma vasilha, coloque a farinha de trigo branca, a farinha de aveia, o sal, o açafrão em pó (dá uma corzinha bonita para a torta), o orégano desidratado e misture.",
+            "Adicione o azeite ou óleo vegetal e misture até obter uma espécie de farofa grossa.",
+            "Acrescente água gelada aos poucos, até obter uma mistura modelável.",
+            "Faça uma bola, enrole em um plástico e leve à geladeira por meia hora.",
+            "Pré aqueça o forno a 200ºC.",
+            "Abra essa massa com o auxílio de um rolo entre duas folhas de papel manteiga. Sua massa deve ficar do tamanho do papel, com no maximo 0.5 cm de espessura.",
+            "Separe um pedacinho da massa pra fazer a decoração.",
+            "Ajeite a massa aberta em uma assadeira de fundo removível antiaderente e salpique fubá ou farinha de mandioca, pra proteger a massa da umidade do recheio.",
+            "Adicione o refogado de palmito e alho poró e corte o restante da massa em tiras para fazer a decoração (não faça tiras muito grossas).",
+            "Leve para assar por cerca de 40 minutos ou até o empadão estar levemente dourado, com a massa firme."
+        ]
+    },
+
+    {
+        "name": "Maionese de alho",
+        "description": "Essa maionese de alho vegana é muito gostosa e pode ser servida com pães, torradas, saladas e petiscos, como também utilizada pra fazer deliciosos pães de alho.",
+        "image": "https://static.vix.com/pt/sites/default/files/styles/large/public/bdm/receita/receita-de-pao-de-alho.jpg?itok=ZnD3uVHJ",
+        "ingredients": [
+
+            {
+                "unity": "g",
+                "number": 500,
+                "name": "batata inglesa"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "leite amêndoas, amendoim ou de soja bem gelado"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "dente de alho grande sem o miolo"
+            },
+
+            {
+                "unity": "colher de sopa",
+                "number": 1,
+                "name": "vinagre branco"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.75,
+                "name": "óleo vegetal"
+            }
+        ],
+
+        "preparation": [
+            "Antes de tudo, cozinhe a batata inglesa até ficar bem macia",
+            "Espere ficar em temperatura ambiente e coloque em um liquidificador, juntamente com o leite de amêndoas gelado. Se possível, deixe no freezer por uns 20 minutos antes de preparar a maionese.",
+            "Adicione o alho sem o miolo, o vinagre branco, tempere com sal a gosto e bata bem em velocidade rápida.",
+            "Assim que a mistura estiver uniforme, comece a acrescentar o óleo vegetal em um fio fino, mantendo liquidificador ligado na velocidade rápida.",
+            "Quando começar a encorpar, diminua a velocidade e continue com o fio de óleo, até a mistura estar bem cremosa.",
+            "Coloque em uma vasilha e leve à geladeira para gelar por pelo menos 2 horas antes de servir."
+        ]
+    },
+
+    {
+        "name": "Risoto de abóbora cabotiá",
+        "description": "Uma receita fácil e gostosa que fica muito cremosa.",
+        "image": "https://organicsnewsbrasil.com.br/wp-content/uploads/2015/12/risoto-de-ab%C3%B3bora.jpg",
+        "ingredients": [
+
+            {
+                "unity": "g",
+                "number": 350,
+                "name": "abóbora cabotiá cortada em cubinhos"
+            },
+
+            {
+                "unity": "xícaras",
+                "number": 5,
+                "name": "caldo de legumes"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "cebola pequena picada"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 3,
+                "name": "dentes de alho picados"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1.5,
+                "name": "arroz arbóreo"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal e pimenta"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "salsinha e cebolinha picadas"
+            }
+
+        ],
+
+        "preparation": [
+            "Em uma panela, coloque a abóbora cabotiá cortada em cubinhos, cubra com 5 xícaras de caldo de legumes ou água e deixe cozinhar até os pedaços estarem macios.",
+            "Retire a abóbora cozida com uma escumadeira, coloque em um liquidificador, juntamente com um pouco da água do cozimento e bata até ficar uniforme.",
+            "Misture este creme com a água da panela e reserve.",
+            "Em uma panela em fogo médio, refogue a cebola e o alho até ficarem levemente dourados.",
+            "Adicione o arroz arbóreo, tempere com sal a gosto e refogue por um minuto.",
+            "Adicione uma concha do caldo e mexa até ele evaporar.",
+            "Continue colocando caldo aos poucos e misturando sempre, até o arroz estar cozido.",
+            "Desligue, corrija o sal, se necessário, e tempere com pimenta e salsinha e cebolinha a gosto.",
+            "Se gostar, sirva com cogumelos refogados."
+        ]
+    },
+
+    {
+        "name": "Risoto de cogumelos com limão siciliano",
+        "description": "A combinação dos ingredientes desta receita é maravilhosa e por causa do limão e das raspinhas, o risotto fica super perfumado.",
+        "image": "https://www.pingodoce.pt/wp-content/uploads/2015/12/1449086533",
+        "ingredients": [
             
-            "preparation": [
-                "Doure a cebola e o alho em um fio de azeite.",
-                "Acrescente a água, sal e a batata picada miúda e deixe cozinhar até que fiquem macias.",
-                "Adicione os cogumelos hidratados e escorridos, o shoyu, o óleo de gergelim e o pão picado e deixe cozinhar por mais alguns minutos.",
-                "Transfira para um processador ou liquidificador e bata bem.",
-                "Por fim, dissolva o misso em uma pequena quantidade de água quente e misture à sopa.",
-                "Regue com um fio de azeite e pedacinhos de shitake hidratado."
-                ]
-        },
-        
-        {
-            "name": "Macarrão com molho de alho-poró",
-            "description": "Ótima opção para um jantar romântico",
-            "image": "http://digamaria.com/wp/wp-content/uploads/2012/02/Massa-com-alho-poro-041.jpg",
-            "ingredients": [
-                
-                {
-                    "unity": "pacote",
-                    "number": 0.5,
-                    "name": "macarrão sem ovos"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 1,
-                    "name": "alho-poró"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 1,
-                    "name": "cebola média ralada"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 1,
-                    "name": "dente de alho ralado"
-                },
-                
-                {
-                    "unity": "unidade",
-                    "number": 6,
-                    "name": "castanhas-do-pará"
-                },
-                
-                {
-                    "unity": "xícara",
-                    "number": 1.5,
-                    "name": "água"
-                },
-                
-                {
-                    "unity": "colheres de sopa",
-                    "number": 2,
-                    "name": "farinha de trigo"
-                },
-                
-                {
-                    "unity": "pitada",
-                    "number": 1,
-                    "name": "pimenta-do-reino"
-                },
-                
-                {
-                    "unity": "a gosto",
-                    "number": null,
-                    "name": "sal"
-                },
-                
-                {
-                    "unity": "a gosto",
-                    "number": null,
-                    "name": "azeite de oliva"
-                },
-                
-                {
-                    "unity": "a gosto",
-                    "number": null,
-                    "name": "castanhas-do-pará moídas para cobrir"
-                }
-                ],
-            
-            "preparation": [
-                "Pique em rodelas o talo do alho poró e fatie finamente as folhas.",
-                "Refogue em 1 fio de azeite, junto com a cebola e o alho, até que fiquem transparentes.",
-                "Bata as castanhas do pará com 1 xícara de água no liquidificador, e despeje na panela.",
-                "Deixe cozinhar rapidamente, acrescentando o sal e a pimenta do reino.",
-                "Dilua a farinha de trigo em 1/2 xícara de água e despeje na panela, misturando até engrossar.",
-                "Distribua sobre o macarrão cozido e escorrido.",
-                "Cubra com castanhas-do-pará raladas e um fio de azeite."
-                ]
-        }
-        
+            {
+                "unity": "l",
+                "number": 1.5,
+                "name": "caldo de legumes"
+            },
+
+            {
+                "unity": "g",
+                "number": 250,
+                "name": "cogumelos Paris limpos e fatiados"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.66,
+                "name": "cebola picada"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 3,
+                "name": "dentes de alho picados"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 1.5,
+                "name": "arroz arbóreo"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.33,
+                "name": "vinho branco"
+            },
+
+            {
+                "unity": "xícara",
+                "number": 0.25,
+                "name": "suco de limão siciliano"
+            },
+
+            {
+                "unity": "colher de chá",
+                "number": 1,
+                "name": "raspas de limão"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "cebolinha picada"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "azeite"
+            }
+        ],
+
+        "preparation": [
+            "Antes de tudo, prepare o caldo de legumes e deixe ele esquentando em fogo baixo.",
+            "Em uma frigideira, coloque um fio de azeite, adicione os cogumelos paris limpos fatiados, uma pitada de sal e refogue até a água que eles liberarem secar.",
+            "Adicione 1/3 de xícara de cebola picada, 2 dentes de alho picados e refogue até ficarem levemente dourados.",
+            "Coloque 1 xícara do caldo de legumes, misture, desligue e reserve.",
+            "Em uma panela em fogo médio, coloque um fio de azeite e refogue o restante da cebola picada e o outro dente de alho picado até ficarem levemente dourados.",
+            "Adicione o arroz arbóreo, tempere com uma pitada de sal e refogue por cerca de 1 minuto.",
+            "Acrescente o vinho branco seco, o suco do limão siciliano e deixe cozinhar até evaporarem, misturando sempre.",
+            "Adicione uma concha do caldo e continue mexendo até ele secar.",
+            "Continue colocando caldo e mexendo até o risotto estar quase cozido.",
+            "Acrescente os cogumelos com o caldo e misture novamente até ele estar totalmente absorvido.",
+            "Veja se o arroz está cozido, em seguida adicione as raspas de limão siciliano e, se quiser, coloque tofupiry a gosto. Ao invés de por tofupiry, você pode só regar com um fio de azeite.",
+            "Sirva com cebolinha picada e está pronto!"
+        ]
+    },
+
+    {
+        "name": "Queijo vegano",
+        "description": "Esse queijo é ótimo e vai bem em sanduíches ou como pastinha. Se quiser que ele fique mais firme, coloque mais agar agar, mas não exagere!",
+        "image": "http://cozinhafit.com.br/wp-content/uploads/2017/04/queijo-vegano3-800x533.jpg",
+        "ingredients": [
+
+            {
+                "unity": "xícara",
+                "number": 1,
+                "name": "castanhas de caju"
+            },
+
+            {
+                "unity": "unidade",
+                "number": 1,
+                "name": "limão"
+            },
+
+            {
+                "unity": "colher de sopa rasa",
+                "number": 1,
+                "name": "agar agar"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "sal"
+            },
+
+            {
+                "unity": "a gosto",
+                "number": null,
+                "name": "temperinhos secos"
+            }
+        ],
+
+        "preparation": [
+            "Deixar as castanhas de caju de molho de um dia para o outro, na geladeira.",
+            "Após, jogue fora a água, coloque as castanhas no liquificador, acrescente 2 xícaras de água fresca filtrada, bata bastante.",
+            "Com a ajuda de um voal ou paninho, coe o leite de castanhas.",
+            "Em uma panela, coloque o leite de castanhas, o suco do limão, sal, temperos (se quiser) e o agar agar.",
+            "Mexa com um fuet até ferver.",
+            "Ao ferver, retire do fogo, coloque em um potinho de vidro ou porcelana (do formato que deseja ter o seu queijo) e deixe esfriar em temperatura ambiente.",
+            "Quando estiver em temperatura ambiente, cubra com plástico filme e leve à geladeira por pelo menos 2 horas.",
+            "Depois basta desenformar com cuidado.",
+            "Conserve em geladeira!"
+        ]
+    }
 
     
         

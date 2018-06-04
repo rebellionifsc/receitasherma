@@ -1373,6 +1373,181 @@
 		"Em uma frigideira grande (24cm de diâmetro), coloque o azeite. Espalhe metade da batata, forrando o fundo da frigideira.",
 		"Distribua o recheio e cubra com o restante da batata. Leve ao fogo médio por 15 minutos, ou até dourar. Vire cuidadosamente para dourar o outro lado. Sirva em seguida"
 	]
+},
+
+{
+	"name": "Camarão com legumes",
+	"description": "Uma ótima opção para seu almoço.",
+	"image": "http://comermelhoragora.com/wp-content/uploads/2017/04/camarao-com-legumes.jpg",
+	"ingredients": [
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "camarões limpos"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 0.5,
+			"name": "limão espremido"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 0.5,
+			"name": "pimentão picado"
+		},
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "cebolinha picada"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 1,
+			"name": "cebola picada"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 3,
+			"name": "dentes de alho amassados"
+		},
+
+		{
+			"unity": "colher de sopa",
+			"number": 1,
+			"name": "azeite"
+		},
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "brócolis"
+		},
+
+		{
+			"unity": "colheres de sopa",
+			"number": 3,
+			"name": "cenoura ralada"
+		},
+
+		{
+			"unity": "xícara",
+			"number": 1,
+			"name": "espinafre"
+		}
+	],
+
+	"preparation": [
+		"Primeiro coloque o suco de limão e o alho no camarão para marinar e reserve.",
+		"Em uma panela refogue a cebola e o pimentão com um fio de azeite até dourar.",
+		"Em seguida adicione o camarão e deixe cozinhar, quando ele tiver adquirido uma coloração rosada mais intensa adicione a cenoura, o brócolis e espinafre e tampe a panela.",
+		"Deixe por 5 minutos e desligue.",
+		"Adicione cebolinha e sirva com folhas verdes."
+	]
+},
+
+{
+	"name": "Carne assada especial",
+	"description": "Uma opção saudável e gostosa para o almoço de domingo com a família ou os amigos!",
+	"image": "http://cozinhafit.com.br/wp-content/uploads/2017/10/20171025_131041-800x600.jpg",
+	"ingredients": [
+
+		{
+			"unity": "g",
+			"number": 400,
+			"name": "lagarto"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 2,
+			"name": "cebolas médias"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "temperos a gosto"
+		},
+
+		{
+			"unity": "g",
+			"number": 300,
+			"name": "cogumelos shitake"
+		},
+
+		{
+			"unity": "colher de sopa",
+			"number": 1,
+			"name": "farinha amina, amido ou fécula dissolvido em um pouco de água"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "vinagre"
+		}
+	],
+
+	"preparation": [
+		"Marinar a carne duas horas no sal, pimenta preta, cebola e vinagre.",
+		"Depois picar uma cebola média e dourar no azeite em uma panela de pressão; coloque a carne e sele de todos os lados.",
+		"Apos selar, coloque dois copos de água e tampe para dar a pressão; abaixe o fogo e deixe cozinhar por mais ou menos 30 minutos.",
+		"Deixe sair a pressão, abra e veja se cozinhou. Caso contrário pode fatiar e retornar à panela para terminar de cozinhar mais rápido.",
+		"Após cozida, faça um molho com o próprio caldo que ficou na panela: adicione uma colher de farinha Amina (ou amido ou fécula) dissolvida em um pouco de água.",
+		"Abaixe o fogo, deixe cozinhar um minuto e acrescente o shitake cortado",
+		"Fatie a carne e sirva com o molho por cima."
+	]
+},
+
+{
+	"name": "Hambúrguer saudável",
+	"description": "Uma receita bem fácil e simples, além de rápida, perfeita para o dia a dia fit.",
+	"image": "https://static-carolmagalhaes.gcampaner.com.br/wp-content/uploads/2015/07/hamburguer-saudavel-carol-magalhes1.jpg",
+	"ingredients": [
+
+		{
+			"unity": "g",
+			"number": 500,
+			"name": "patinho moído"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "sal"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "cabolinha fresca"
+		},
+
+		{
+			"unity": "a gosto",
+			"number": null,
+			"name": "pimenta"
+		},
+
+		{
+			"unity": "unidade",
+			"number": 0.5,
+			"name": "cebola média ralada"
+		}
+	],
+
+	"preparation": [
+		"Junte todos os ingredientes e modele os hamburguinhos com a mão.",
+		"Coloque em uma assadeira anti-aderente ou untada com azeite e pincele azeite por cima.",
+		"Leva ao forno pré-aquecido (15min a 230 graus) e deixe assando por mais ou menos 20 a 25 minutos.",
+		"Se quiser, pode colocar queijo queijão parmesão no finalzinho do processo, só para derreter."
+	]
 }
 
 
