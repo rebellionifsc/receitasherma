@@ -1,0 +1,189 @@
+{
+    "gluten free": [
+
+        {
+            "name": "Muffin de pasta de avelã e cacau",
+            "description": "Esta receita de muffin é deliciosa e uma ótima opção de lanche prático para levar na bolsa.",
+            "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2017/04/shutterstock_574916575.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "xícara",
+                    "number": 0.75,
+                    "name": "farinha de espelta ou integral"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1.5,
+                    "name": "fermento biológico"
+                },
+
+                {
+                    "unity": "pitada",
+                    "number": 1,
+                    "name": "sal"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.25,
+                    "name": "purê de maçã puro"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.25,
+                    "name": "açúcar de coco"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "linhaça"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 3,
+                    "name": "pasta de avelã e cacau"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "óleo de coco"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 0.5,
+                    "name": "extrato de baunilha"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "leite amêndoas"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 0.5,
+                    "name": "vinagre de maçã"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.25,
+                    "name": "nibs de cacau"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "avelãs picadas (opcional)"
+                }
+            ],
+
+            "preparation": [
+                "Pré-aqueça o forno a 180°",
+                "Misture a farinha, o fermento e o sal em um bowl",
+                "Em outro recipiente, misture o purê de maçã com o vingre",
+                "Depois, misture os ingredientes molhados aos secos até obter uma massa homogênea",
+                "Adicione os nibs de cacau e avelãs picadas à massa",
+                "Divida em 6 forminhas e asse por 20 minutos ou até ficarem douradinhos e firme no topo"
+            ]
+        },
+
+        {
+            "name": "Bolo de laranja de liquidificador",
+            "description": "Um bolo quentinho saindo do forno é irresistível… Como este bolo de laranja que, além de muito saboroso, é fácil de fazer.",
+            "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2016/09/BoloLaranjaLiquidificador1-1.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "laranja"
+                },
+
+                {
+                    "unity": "ml",
+                    "number": 200,
+                    "name": "óleo de coco"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 3,
+                    "name": "ovos"
+                },
+
+                {
+                    "unity": "copo",
+                    "number": 1.5,
+                    "name": "açúcar de coco"
+                },
+
+                {
+                    "unity": "copo",
+                    "number": 1.5,
+                    "name": "farinha de arroz"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "fermento em pó"
+                }
+            ],
+
+            "preparation": [
+                "Pré-aqueça o forno a 200°",
+                "Corte a laranja, já higienizada, em 4 partes, mantendo apenas a polpa e a casca (sem as sementes e o albedo)",
+                "No liquidificador, bata a laranja, o óleo e os ovos. Aos poucos, adicione a farinha e o açúcar. Bata bem. Em seguida, acrescente o fermento",
+                "Leve para assar por cerca de 45 minutos ou até estar assado."
+
+            ]
+        },
+
+        {
+            "name": "Brigadeiro de paçoca",
+            "description": "Esta receita de brigadeiro de paçoca é uma ótima opção de docinho para comer sem culpa de sair da dieta.",
+            "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2016/08/Brigadeiro1.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "ml",
+                    "number": 200,
+                    "name": "leite de amêndoas ou de coco"
+                },
+
+                {
+                    "unity": "colher de sopa",
+                    "number": 1,
+                    "name": "açúcar de coco"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "biomassa de banana verde"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "paçoca sem açúcar"
+                }
+            ],
+
+            "preparation": [
+                "Em uma panela, leve todos os ingredientes, exceto a paçoca, ao fogo médio. Mexa até a massa desgrudar do fundo",
+                "Deixe esfriar e, em seguida, leve a massa para o congelador por cerca de três horas",
+                "Faça bolinhas e enrole-as com a paçoca."
+            ]
+        }
+    ]
+}
