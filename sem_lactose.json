@@ -1,0 +1,109 @@
+{
+    "lactose free": [
+
+        {
+            "name": "Maionese de abacate",
+            "description": "A maionese de abacate é uma alternativa à maionese tradicional, sem adição de ovos ou qualquer outro ingrediente de origem animal",
+            "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2018/05/maionese-de-abacate-3.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "abacate médio"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "mostarda"
+                },
+
+                {
+                    "unity": "unidade",
+                    "number": 1,
+                    "name": "dente de alho"
+                },
+
+                {
+                    "unity": "",
+                    "number": null,
+                    "name": "suco de meio limão"
+                },
+
+                {
+                    "unity": "colher de chá",
+                    "number": 1,
+                    "name": "sal"
+                },
+
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "coentro fresco"
+                },
+
+                {
+                    "unity": "xícara",
+                    "number": 0.5,
+                    "name": "azeite"
+                }
+            ],
+
+            "preparation": [
+                "Coloque os ingredientes, exceto o azeite, no liquidificador e bata até obter um creme",
+                "Acrescente o azeite aos poucos até obter uma textura de maionese",
+                "Se necessário, ajuste o sal e temperos"
+            ]
+        },
+
+        {
+            "name": "Creme de milho sem lactose",
+            "description": "Esta receita de creme de milho é elaborada sem lactose, podendo ser consumida por pessoas com intolerância alimentar ou até alergia à proteína do soro do leite",
+            "image": "https://www.natue.com.br/natuelife/wp-content/uploads/2016/11/IMAGEM_creme_de_milho_editado.jpg",
+            "ingredients": [
+
+                {
+                    "unity": "xícaras",
+                    "number": 2,
+                    "name": "leite de arroz"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "biomassa de banana verde"
+                },
+
+                {
+                    "unity": "xícaras",
+                    "number": 2,
+                    "name": "milho verde cozido"
+                },
+
+                {
+                    "unity": "colheres de sopa",
+                    "number": 2,
+                    "name": "azeite"
+                },
+
+                {
+                    "unity": "a gosto",
+                    "number": null,
+                    "name": "noz moscada moída, sal e pimenta do reino"
+                }
+            ],
+
+            "preparation": [
+                "Aqueça o leite de arroz",
+                "Em um liquidificador, bata o leite com a biomassa de banana verde até ficar homogêneo",
+                "Adicione 1 xícara de milho verde e bata até obter um creme, se necessário acrescente um pouco de água",
+                "Em uma panela sobre fogo baixo, aqueça o azeite e refogue a cebola",
+                "Quando as cebolas murcharem acrescente o restante do milho e refogue rapidamente",
+                "Aumente o fogo, adicione o creme batido. Mexa constantemente até o creme estar quente e na textura desejada. Tempere com a noz moscada moída, sal e pimenta do reino",
+                "Retire do fogo e sirva imediatamente acompanhando o prato principal de sua escolha",
+                "Caso não sirva imediatamente, quando esquentar acrescente um pouco de água e incorpore ao creme sobre fogo brando"
+            ]
+        }
+    ]
+}
